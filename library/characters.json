@@ -1034,7 +1034,9 @@
       "profile": "characters/ggb.md",
       "sheets_page": "characters/sheets/ggb.md",
       "sheets": [],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/ggb-reference-02.png",
+      "visual_status": "selected-reference-artwork"
     },
     {
       "id": "gille",
