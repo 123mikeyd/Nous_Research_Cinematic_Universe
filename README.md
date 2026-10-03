@@ -1,3 +1,5 @@
+<p align="center"><a href="https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/"><img src="./images/nrcu-vault-banner.jpg" alt="Nous Research Cinematic Universe — The NRCU Vault" width="100%"></a></p>
+
 # 🎬 Nous Research Cinematic Universe (NRCU)
 
 > **"We Build. We Share. We Never Surrender."**
@@ -7,6 +9,8 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 **Open Source for All.**
 
 ## Start here
+
+### [🌐 Browse the Character Library](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/) · [🎮 Play the NRCU fighter in your browser](https://123mikeyd.github.io/nrcu-platform-fighter/)
 
 **[Find a character](./characters/README.md)** · **[Download a model](#-download-3d-models)** · **[Watch the videos](#-music-videos)**
 
