@@ -83,7 +83,7 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 
 1. [Thank You Nous Research](./music-videos/thank-you-nous-research-arts-bro.md) — A community fan-made video by Arts Bro ([watch on YouTube](https://youtu.be/9RJHcYCGLmQ))
 2. [Tekpunk — One More Prompt](./music-videos/tekpunk-one-more-prompt.md) — Hackathon fuel by amglolification for Nous Hackathon #2 ([watch on YouTube](https://youtu.be/1hysj5oTYSw))
-3. [Hermes SR72](./music-videos/hermes-sr72.md) — An arts-dept compilation made with Hermes Agent, Arts Bro, Sahil, and amglolification ([watch on YouTube](https://youtu.be/wNITra1sT-M))
+3. [Glitch — Never Catch My Face](./music-videos/glitch-never-catch-my-face.md) — Official music video ft. Open Source Crew, by amglolification ([watch on YouTube](https://youtu.be/yau5rWIwx5Q))
 
 Videos are linked from their production pages instead of stored as raw MP4s, so the vault stays quick to clone and easy to preserve.
 

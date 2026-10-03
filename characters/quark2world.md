@@ -45,7 +45,7 @@ Quark is a Europe-based community creator who makes music and videos, runs a You
 Quark creates music and videos on his YouTube channel, [amglolification](https://www.youtube.com/@amglolification).
 
 - **“One More Prompt”** — song by Quark; see [Tekpunk — One More Prompt | Hackathon Fuel](../music-videos/tekpunk-one-more-prompt.md).
-- **[“Never Catch My Face”](https://youtu.be/yau5rWIwx5Q?si=I9jslgnclH1Pd8Dc)** — song by Quark. [Hermes SR72](../music-videos/hermes-sr72.md) used half of this song.
+- **[“Never Catch My Face”](https://youtu.be/yau5rWIwx5Q?si=I9jslgnclH1Pd8Dc)** — song by Quark; see [Glitch — Never Catch My Face](../music-videos/glitch-never-catch-my-face.md). [Hermes SR72](../music-videos/hermes-sr72.md) used half of this song.
 - Creates videos featuring **Nous Girl**, the woman from the Nous Research logo, **Teknium**, and **[Turbofit](./turbo-fit.md)**, the NRCU character for Sovthpaw.
 
 ### Community contributions
