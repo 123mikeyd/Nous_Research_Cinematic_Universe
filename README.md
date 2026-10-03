@@ -21,7 +21,7 @@ Click a character picture below to open their page. For extra art styles, use **
 <table>
 <tr>
 <td align="center"><a href="./characters/teknium.md"><img src="./images/teknium-leafage-shades.png" alt="Teknium head reference" width="160"><br><strong>Teknium</strong></a></td>
-<td align="center"><a href="./characters/mephisto.md"><img src="./images/mephisto-snow-portrait.png" alt="Mephisto snow portrait with eyes closed" width="160"><br><strong>Mephisto</strong></a></td>
+<td align="center"><a href="./characters/mephisto.md"><img src="./images/previews/mephisto-snow-portrait.webp" alt="Mephisto snow portrait with eyes closed" width="160"><br><strong>Mephisto</strong></a></td>
 <td align="center"><a href="./characters/emozilla.md"><strong>Emo</strong></a><br>Artwork coming later</td>
 </tr>
 </table>
@@ -30,23 +30,23 @@ Click a character picture below to open their page. For extra art styles, use **
 
 <table>
 <tr>
-<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/turbo-fit-sheet.png" alt="Turbo Fit reference sheet" width="160"><br><strong>Turbo Fit</strong></a></td>
-<td align="center"><a href="./characters/heartbreaker.md"><img src="./images/heartbreaker-sheet.png" alt="Heartbreaker reference sheet" width="160"><br><strong>Heartbreaker</strong></a></td>
-<td align="center"><a href="./characters/gille.md"><img src="./images/coffeeblender-and-gille-thermos.png" alt="Gille and coffeeblender scene reference" width="160"><br><strong>Gille</strong></a></td>
+<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/previews/turbo-fit-sheet.webp" alt="Turbo Fit reference sheet" width="160"><br><strong>Turbo Fit</strong></a></td>
+<td align="center"><a href="./characters/heartbreaker.md"><img src="./images/previews/heartbreaker-sheet.webp" alt="Heartbreaker reference sheet" width="160"><br><strong>Heartbreaker</strong></a></td>
+<td align="center"><a href="./characters/gille.md"><img src="./images/previews/coffeeblender-and-gille-thermos.webp" alt="Gille and coffeeblender scene reference" width="160"><br><strong>Gille</strong></a></td>
 </tr>
 <tr>
-<td align="center"><a href="./characters/tinuviel.md"><img src="./images/tinuviel-sheet.png" alt="Tinuviel reference sheet" width="160"><br><strong>Tinuviel</strong></a></td>
-<td align="center"><a href="./characters/sidbin.md"><img src="./images/sidbin-sheet.png" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
-<td align="center"><a href="./characters/witcheer.md"><img src="./images/witcheer-character-sheet.png" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
+<td align="center"><a href="./characters/tinuviel.md"><img src="./images/previews/tinuviel-sheet.webp" alt="Tinuviel reference sheet" width="160"><br><strong>Tinuviel</strong></a></td>
+<td align="center"><a href="./characters/sidbin.md"><img src="./images/previews/sidbin-sheet.webp" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
+<td align="center"><a href="./characters/witcheer.md"><img src="./images/previews/witcheer-character-sheet.webp" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
 </tr>
 <tr>
 <td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
-<td align="center"><a href="./characters/doge-man.md"><img src="./images/doge-man-model-preview.png" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
-<td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/character-sheets/sudo-nightwing/anime.webp" alt="sudo-nightwing reference sheet" width="160"><br><strong>sudo-nightwing</strong></a></td>
+<td align="center"><a href="./characters/doge-man.md"><img src="./images/previews/doge-man-model-preview.webp" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
+<td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/previews/sudo-nightwing-anime.webp" alt="sudo-nightwing reference sheet" width="160"><br><strong>sudo-nightwing</strong></a></td>
 </tr>
 <tr>
-<td align="center"><a href="./characters/ggb.md"><img src="./images/ggb-reference-02.png" alt="GGB reference artwork" width="160"><br><strong>GGB</strong></a></td>
-<td align="center"><a href="./characters/ee-dd.md"><img src="./images/ee-dd-landscape.png" width="180" alt="ee.dd landscape avatar"><br><strong>ee.dd</strong></a><br>Landscape avatar</td>
+<td align="center"><a href="./characters/ggb.md"><img src="./images/previews/ggb-reference-02.webp" alt="GGB reference artwork" width="160"><br><strong>GGB</strong></a></td>
+<td align="center"><a href="./characters/ee-dd.md"><img src="./images/previews/ee-dd-landscape.webp" width="180" alt="ee.dd landscape avatar"><br><strong>ee.dd</strong></a><br>Landscape avatar</td>
 <td align="center"><a href="./characters/cthulhu.md"><img src="./images/character-sheets/cthulhu/anime.webp" alt="Cthulhu reference sheet" width="160"><br><strong>Cthulhu</strong></a></td>
 </tr>
 </table>
