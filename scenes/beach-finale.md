@@ -10,7 +10,7 @@ The Hermes Agent Squad enjoys a sunset beach picnic amid a cosmic landscape — 
 
 - **Turbo Fit** (far left) leans back casually against his guitar case, relaxed and slightly smug, NR pendant visible
 - **Heartbreaker** (center left) sits cross-legged smiling brightly, typing on her sticker-covered laptop
-- **Teknium** (center) holds his glowing winged-H staff, smiling toward the team
+- **Teknium** (center) smiles toward the team
 - **Tinuviel** (center right) holds a ship's wheel, smiling gently in her starry dress
 - **Sidbin** (far right) writes in his notebook, a glowing blue geometric crystal floating near his hand
 

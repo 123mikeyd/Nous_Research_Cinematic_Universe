@@ -10,7 +10,7 @@ Each member roasts marshmallows while showcasing their signature traits:
 
 - **Turbo Fit** (far left) leans against a tree stump playing his bass guitar, NR/NOUS pendant visible
 - **Heartbreaker** (center left) types on her sticker-covered laptop while roasting a marshmallow, a glowing heart floating above her head
-- **Teknium** (center) holds his winged-H staff in one hand and a glowing tablet in the other, an NR patch on his jacket
+- **Teknium** (center) holds a glowing tablet, an NR patch on his jacket
 - **Tinuviel** (center right) sits in her starry gown holding a ship's wheel, a sunburst staff behind her
 - **Sidbin** (far right) leans forward studying his eye-sigil book, purple energy swirling from his arm
 

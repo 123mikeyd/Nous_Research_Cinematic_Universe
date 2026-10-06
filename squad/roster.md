@@ -53,9 +53,7 @@
 ### ⚡ Teknium
 - **Title:** Head Honcho
 - **Role:** Leader / Architect
-- **Weapon:** Hermes Command Staff
 - **Focus:** Systems, Strategy, Growth
-- **Signature Item:** Hermes Command Staff
 - **Allegiance:** Nous Research
 - [Full Profile →](../characters/teknium.md)
 
@@ -88,7 +86,7 @@
 
 ## Team Gear & Symbols
 
-- **Winged H Emblem** — The squad's insignia, featured on staff, signs, and branding
+- **Winged H Emblem** — The squad's insignia, featured on signs and branding
 - **NR / Nous Research Logo** — The organizational allegiance
 - **Heart Icon** — Heartbreaker's symbol
 - **Eye Icon** — Sidbin's symbol
@@ -98,7 +96,7 @@
 ## Squad Relics (Team Tools)
 
 The squad's shared arsenal of artifacts and tools, passed between members as needed:
-- Hermes Command Staff (winged-H emblem)
+
 - Celestial Astrolabe (navigation artifact)
 - Reflective Intel Shard (truth-revealing relic)
 - Pink Laptop (open-source toolkit)
