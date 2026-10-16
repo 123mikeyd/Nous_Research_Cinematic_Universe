@@ -39,6 +39,7 @@ Click a name to open the character page. Click **Sheets** for extra art styles. 
 - [Gottz](./gottz.md) · [Sheets](./sheets/gottz.md)
 - [Hermes User: 123321](./hermes-user-123321.md) · [Sheets](./sheets/hermes-user-123321.md)
 - [I Sneeze Kittens](./isneezekittens.md) · [Sheets](./sheets/isneezekittens.md)
+- [Locutus of the Eye](./locutus-of-the-eye.md) · [Sheets](./sheets/locutus-of-the-eye.md)
 - [MGF.654](./mgf-654.md) · [Sheets](./sheets/mgf-654.md)
 - [Noctis](./noctis.md) · [Sheets](./sheets/noctis.md)
 - [quark2world](./quark2world.md) · [Sheets](./sheets/quark2world.md)
