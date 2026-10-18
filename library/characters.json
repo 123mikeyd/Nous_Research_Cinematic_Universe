@@ -1,107 +1,14 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "groups": {
-    "founders": "Founders",
-    "crew": "Nous Crew",
-    "contributors": "Contributors & Side Characters"
+    "nous": "Nous"
   },
   "source_commit": "15af249624130b7823a151d2390d93ae05ba93de",
   "characters": [
     {
-      "id": "hermes-user-123321",
-      "name": "Hermes User 123321",
-      "group": "contributors",
-      "profile": "characters/hermes-user-123321.md",
-      "sheets_page": "characters/sheets/hermes-user-123321.md",
-      "sheets": [
-        {
-          "style": "anime",
-          "preview": "images/character-sheets/hermes-user-123321/anime.webp",
-          "sha256": "61941be90858a9c872ce105aae81aa2bdd890e95eafca616581501739719681c",
-          "original_sha256": "7c1aac1c8b8b21a3c7a5479a9c475a714e8c80e9ecbfb555549ae28836e5f73d",
-          "original_archive_path": "characters/123321/styles/anime/123321__sheet__anime__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "chibi",
-          "preview": "images/character-sheets/hermes-user-123321/chibi.webp",
-          "sha256": "feab1e9cf041524e46540037bf46ed08238c7a5baafbb265af5093f0ce2ffae0",
-          "original_sha256": "aea6936ca15e759a061fd7eb30c131362ecd83b917f8589c02d2c14be0ebca61",
-          "original_archive_path": "characters/123321/styles/chibi/123321__sheet__chibi__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "claymation-stop-motion",
-          "preview": "images/character-sheets/hermes-user-123321/claymation-stop-motion.webp",
-          "sha256": "9029bf8a68fc4f0c8ebce7defd657053a0b694a6a204fff23594b25c74c6a0fd",
-          "original_sha256": "e7a5ee8b4cf9e2fc1378110f1d512d76d1048c59d95bb32ee6b88c28bfd35d34",
-          "original_archive_path": "characters/123321/styles/claymation-stop-motion/123321__sheet__claymation-stop-motion__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "disney",
-          "preview": "images/character-sheets/hermes-user-123321/disney.webp",
-          "sha256": "56fd73ab0f8c9220f3a91cddfdfe4b0da4a3fa68ade2260ba33bb5eefa8e86c1",
-          "original_sha256": "667c5d3358b06426da807a7090b640a1d84f73a2c641fed972d54a32924ce78d",
-          "original_archive_path": "characters/123321/styles/disney/123321__sheet__disney__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "gothic",
-          "preview": "images/character-sheets/hermes-user-123321/gothic.webp",
-          "sha256": "d3b6c79092a8da2e03ad0da8d3d6a6d5cd37878b03c3f56ad7350d8411242f3d",
-          "original_sha256": "1b1c678878048ea6679211e82e12f25d8c8e9b9e90632b3a01903359379561f0",
-          "original_archive_path": "characters/123321/styles/gothic/123321__sheet__gothic__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "hyper-realistic",
-          "preview": "images/character-sheets/hermes-user-123321/hyper-realistic.webp",
-          "sha256": "8c63668d31484ba1ea054fa8fc4ede4664e1a6e27087ce571aa67bd951005d5f",
-          "original_sha256": "799987f56e3a4891c17967e15d6426a14835654c8daab8982e7fe6d9def72404",
-          "original_archive_path": "characters/123321/styles/hyper-realistic/123321__sheet__hyper-realistic__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "ink-pen-sketch",
-          "preview": "images/character-sheets/hermes-user-123321/ink-pen-sketch.webp",
-          "sha256": "06e830189d0dc0891b3dd68fa451c040a762eae56fd76444400e18a5c711d536",
-          "original_sha256": "6bfb47292ce073904a47e081a42384f0e65bacb38ac84f4d6e48de90984d7693",
-          "original_archive_path": "characters/123321/styles/ink-pen-sketch/123321__sheet__ink-pen-sketch__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "mecha",
-          "preview": "images/character-sheets/hermes-user-123321/mecha.webp",
-          "sha256": "2caad92ea3afd7dfa5eddb8a35e6d5847127284179387b6e66a8425593eb7a17",
-          "original_sha256": "50b1ce542c648c1063ebe3430f40a9541975560ba18030d2f78710c5bfa66b36",
-          "original_archive_path": "characters/123321/styles/mecha/123321__sheet__mecha__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "rick-and-morty",
-          "preview": "images/character-sheets/hermes-user-123321/rick-and-morty.webp",
-          "sha256": "4726475fae18023f5d2adf4058815c3048647eaddd876f1eaed72277827ac6ad",
-          "original_sha256": "c563e2632e74de384090a5eab5c0c674d7684d73d49556ef7d6210e520d1555a",
-          "original_archive_path": "characters/123321/styles/rick-and-morty/123321__sheet__rick-and-morty__v01.png",
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "publication_hold": false
-    },
-    {
       "id": "adolan",
       "name": "adolan",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/adolan.md",
       "sheets_page": "characters/sheets/adolan.md",
       "sheets": [
@@ -187,195 +94,31 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/adolan/anime.webp",
+      "browse_preview": "images/previews/library-adolan.webp",
+      "reader": "library/read/characters/adolan.html"
     },
     {
       "id": "artsbro",
       "name": "ArtsBro",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/artsbro.md",
       "sheets_page": "characters/sheets/artsbro.md",
-      "sheets": [
-        {
-          "style": "anime",
-          "preview": "images/character-sheets/artsbro/anime.webp",
-          "sha256": "1bba67549ba93941eff178a861fbc44cd0dc333b4b69a4d6a309a90a6db9b5c7",
-          "original_sha256": "d133199c4923e628250869725cd60e727c1cd562e638a3a2e66a5a296a245013",
-          "original_archive_path": "characters/artsbro/styles/anime/artsbro__sheet__anime__v01.png",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "chibi",
-          "preview": "images/character-sheets/artsbro/chibi.webp",
-          "sha256": "280daa426d3507c783feb473a35c825d3fc3df1c15d922e406bd4b2015ae99b9",
-          "original_sha256": "a2f894af5957e560fc590a3637987b0cef5a10283a3bec92840acf010800881e",
-          "original_archive_path": "characters/artsbro/styles/chibi/artsbro__sheet__chibi__v01.png",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "claymation-stop-motion",
-          "preview": "images/character-sheets/artsbro/claymation-stop-motion.webp",
-          "sha256": "16dee485610d33cd3d75f4ee41b177175f0809f4640e3599b1970fc1a28f8f60",
-          "original_sha256": "281dc05f5674134b136b36af0816df8f8159dcfba7bf6ab3e7cc137f4f34e995",
-          "original_archive_path": "characters/artsbro/styles/claymation-stop-motion/artsbro__sheet__claymation-stop-motion__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "disney",
-          "preview": "images/character-sheets/artsbro/disney.webp",
-          "sha256": "1916a5c28965685a4342d4d98979fb7b52c21e47a51ebd7033231375de5198d2",
-          "original_sha256": "ec354177a84d90013e34c8dd9ec682e957bdf18b62fc11ef71efae81cb2c2f8e",
-          "original_archive_path": "characters/artsbro/styles/disney/artsbro__sheet__disney__v01.png",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "gothic",
-          "preview": "images/character-sheets/artsbro/gothic.webp",
-          "sha256": "5b42e48422b56510c4dde5ce494059e36c6bd898b06b95e0f4287bcc108300ac",
-          "original_sha256": "ca536c1a20b2500b5afba93badb80420daccf0daae649700c4bcd0c5552c62e2",
-          "original_archive_path": "characters/artsbro/styles/gothic/artsbro__sheet__gothic__v01.png",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "hyper-realistic",
-          "preview": "images/character-sheets/artsbro/hyper-realistic.webp",
-          "sha256": "ff9a6925a31c39a6392717905d681d850327390db15318c1776046b8101d29d6",
-          "original_sha256": "83265772ea189ad07f0c4f4f324dccbcf9c69ee57a0a2c42273d1fe14a5fc833",
-          "original_archive_path": "characters/artsbro/styles/hyper-realistic/artsbro__sheet__hyper-realistic__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "ink-pen-sketch",
-          "preview": "images/character-sheets/artsbro/ink-pen-sketch.webp",
-          "sha256": "bd7612933552958a63e8f26c9925db8e311a3453349f2cc764d0d0dbf01ed506",
-          "original_sha256": "fea8238f67d4529f4e4e640bfe3d552b5c156c807e3507909eaf099166d0a49c",
-          "original_archive_path": "characters/artsbro/styles/ink-pen-sketch/artsbro__sheet__ink-pen-sketch__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "mecha",
-          "preview": "images/character-sheets/artsbro/mecha.webp",
-          "sha256": "219d77171c99720ed09537719ac396bd0cbd6b9302c54f51370095dbfacbe3d0",
-          "original_sha256": "63a2ab4f215ff2e2dddf848bd307e4ea209657386d5f48f41ca0edf07dc4fa05",
-          "original_archive_path": "characters/artsbro/styles/mecha/artsbro__sheet__mecha__v01.png",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "rick-and-morty",
-          "preview": "images/character-sheets/artsbro/rick-and-morty.webp",
-          "sha256": "e5d21247525ad248e29a24b0478a6bf4dc094fc72a7d178f97b94f235838fbbe",
-          "original_sha256": "ccd31cac56143b83ece64683332ff9c8e799f1555be76b9fd608783536edda2d",
-          "original_archive_path": "characters/artsbro/styles/rick-and-morty/artsbro__sheet__rick-and-morty__v01.png",
-          "width": 1448,
-          "height": 1086
-        }
-      ],
-      "publication_hold": false
-    },
-    {
-      "id": "heartbreaker",
-      "name": "Brooklyn / Heartbreaker",
-      "group": "crew",
-      "profile": "characters/heartbreaker.md",
-      "sheets_page": "characters/sheets/heartbreaker.md",
-      "sheets": [
-        {
-          "style": "anime",
-          "preview": "images/character-sheets/heartbreaker/anime.webp",
-          "sha256": "5848dd53ffdf668ec8b0c4d7ec6e5b7147cb316872b18b7c40ba6cc4a1d40a13",
-          "original_sha256": "2088d80623d35bdf49ad550c56151ea4c890f7cf5240533982c0dc647529a6b1",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/anime/brooklyn-heartbreaker__sheet__anime__v01.jpeg",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "chibi",
-          "preview": "images/character-sheets/heartbreaker/chibi.webp",
-          "sha256": "7956bdb3ec13b55a4a1401a5aae791cdba05623eb1ba647e6f90b04a1f91a3b1",
-          "original_sha256": "4c5534fde0befc2be8362dd285b17f12a56d88d2c1bec692da3a698f2336a995",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/chibi/brooklyn-heartbreaker__sheet__chibi__v01.jpeg",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "claymation-stop-motion",
-          "preview": "images/character-sheets/heartbreaker/claymation-stop-motion.webp",
-          "sha256": "baa19750b524347b94e548bc1365c9a97731cdd5c9595bc2b82d949d14d33d89",
-          "original_sha256": "e2ae90c088e70e2f77da72040cf49e57f1c706000221bee4a7985216e9e9599b",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/claymation-stop-motion/brooklyn-heartbreaker__sheet__claymation-stop-motion__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "disney",
-          "preview": "images/character-sheets/heartbreaker/disney.webp",
-          "sha256": "fa3bcf0f7455fe80184d68819648cd3ab4fb339d56a83093fc1ef3222351ef75",
-          "original_sha256": "968156d19e923ffead604e5515b886eaad737ad43882906a77af144116301963",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/disney/brooklyn-heartbreaker__sheet__disney__v01.jpeg",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "gothic",
-          "preview": "images/character-sheets/heartbreaker/gothic.webp",
-          "sha256": "9e2f04526f075ee0c6ca06eed28a385b42f8d7a75d73864760748d6aefae7ec0",
-          "original_sha256": "df8068a1b36d01b11d3c7fa6498b2a356217239098e0a4aea0df20a8412d06bf",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/gothic/brooklyn-heartbreaker__sheet__gothic__v01.jpeg",
-          "width": 1448,
-          "height": 1086
-        },
-        {
-          "style": "hyper-realistic",
-          "preview": "images/character-sheets/heartbreaker/hyper-realistic.webp",
-          "sha256": "e977601fcaa5c352c7f5e08576f2cf4dc0d209f4dcd34845f2a31327ae9ab363",
-          "original_sha256": "727426aa72cb5cc6a9275e09a7c0513d8ea10fd9635af84b58b363ff6d474153",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/hyper-realistic/brooklyn-heartbreaker__sheet__hyper-realistic__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "ink-pen-sketch",
-          "preview": "images/character-sheets/heartbreaker/ink-pen-sketch.webp",
-          "sha256": "a6e65838e882b70106be22a7e9fa1383dfeb0f5e91cf756759415a86ad1ea571",
-          "original_sha256": "690fabef383ec1ce47fe625559539f0a439fa6f74979c97ead527cd10baf4d74",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/ink-pen-sketch/brooklyn-heartbreaker__sheet__ink-pen-sketch__v01.png",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "mecha",
-          "preview": "images/character-sheets/heartbreaker/mecha.webp",
-          "sha256": "5bd724b1d6a2e27ec1bacc4094465c92e13e99642e14e81e1809fec27eeea0d7",
-          "original_sha256": "21a39df195e1c17caa6dbd9c0af5c56f08d92a26f22862df7052a7bd6cf33cba",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/mecha/brooklyn-heartbreaker__sheet__mecha__v01.jpeg",
-          "width": 1536,
-          "height": 1024
-        },
-        {
-          "style": "rick-and-morty",
-          "preview": "images/character-sheets/heartbreaker/rick-and-morty.webp",
-          "sha256": "e9703ef82e2082bfeffd875d53d604f6e33a637bb7e9f87ddf408cfb79cbb4ad",
-          "original_sha256": "511475383764719588d4d934afc85d42a35afc91fcbedecf3eb0ce3d60dda7f1",
-          "original_archive_path": "characters/brooklyn-heartbreaker/styles/rick-and-morty/brooklyn-heartbreaker__sheet__rick-and-morty__v01.jpeg",
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "publication_hold": false
+      "sheets": [],
+      "publication_hold": false,
+      "primary_reference": "images/artsbro-masked-full-body.png",
+      "browse_preview": "images/previews/library-artsbro-masked.webp",
+      "reader": "library/read/characters/artsbro.html",
+      "additional_references": [
+        "images/artsbro-mask-details.png"
+      ]
     },
     {
       "id": "coffeeblender",
       "name": "coffeeblender",
-      "group": "contributors",
-      "profile": "characters/coffeeblender.md",
+      "group": "nous",
+      "profile": "characters/gille-and-coffeeblender.md",
       "sheets_page": "characters/sheets/coffeeblender.md",
       "sheets": [
         {
@@ -460,12 +203,18 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/coffeeblender-and-gille-thermos.png",
+      "browse_preview": "images/previews/library-coffeeblender.webp",
+      "reader": "library/read/characters/gille-and-coffeeblender.html",
+      "aliases": [
+        "Coffee Blender"
+      ]
     },
     {
       "id": "cthulhu",
       "name": "Cthulhu",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/cthulhu.md",
       "sheets_page": "characters/sheets/cthulhu.md",
       "sheets": [
@@ -551,12 +300,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/cthulhu/anime.webp",
+      "browse_preview": "images/previews/library-cthulhu.webp",
+      "reader": "library/read/characters/cthulhu.html"
     },
     {
       "id": "doge-man",
       "name": "Doge Man",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/doge-man.md",
       "sheets_page": "characters/sheets/doge-man.md",
       "sheets": [
@@ -730,12 +482,14 @@
         "Super Shiba",
         "Dogeman"
       ],
-      "primary_reference": "images/doge-man-model-preview.png"
+      "primary_reference": "images/doge-man-model-preview.png",
+      "browse_preview": "images/previews/library-doge-man.webp",
+      "reader": "library/read/characters/doge-man.html"
     },
     {
       "id": "don-piedro",
       "name": "Don Piedro",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/don-piedro.md",
       "sheets_page": "characters/sheets/don-piedro.md",
       "sheets": [
@@ -821,32 +575,59 @@
           "height": 512
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/don-piedro-hermes-biggest-fanboy.png",
+      "browse_preview": "images/previews/library-don-piedro.webp",
+      "reader": "library/read/characters/don-piedro.html"
+    },
+    {
+      "id": "drahcir-rahl",
+      "name": "drahcir_rahl",
+      "profile": "characters/drahcir-rahl.md",
+      "aliases": [
+        "rahlquist",
+        "The IT Juggernaut"
+      ],
+      "primary_reference": "images/drahcir-rahl.png",
+      "publication_hold": false,
+      "sheets": [],
+      "group": "nous",
+      "browse_preview": "images/previews/library-drahcir-rahl.webp",
+      "reader": "library/read/characters/drahcir-rahl.html"
     },
     {
       "id": "ee-dd",
       "name": "ee.dd",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/ee-dd.md",
       "sheets_page": "characters/sheets/ee-dd.md",
       "sheets": [],
       "publication_hold": false,
       "visual_status": "landscape-avatar-selected",
-      "primary_reference": "images/ee-dd-landscape.png"
+      "primary_reference": "images/ee-dd-landscape.png",
+      "browse_preview": "images/previews/library-ee-dd.webp",
+      "reader": "library/read/characters/ee-dd.html"
     },
     {
       "id": "emozilla",
-      "name": "Jeffrey Quesnelle / Emozilla",
-      "group": "founders",
+      "name": "Emo / Emozilla",
+      "group": "nous",
       "profile": "characters/emozilla.md",
       "sheets_page": "characters/sheets/emozilla.md",
       "sheets": [],
-      "publication_hold": false
+      "publication_hold": false,
+      "reader": "library/read/characters/emozilla.html",
+      "aliases": [
+        "Emo",
+        "Emozilla",
+        "Jeffrey Quesnelle",
+        "Jeffrey Quesnelle / Emozilla"
+      ]
     },
     {
       "id": "fatcat",
       "name": "FatCat",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/fatcat.md",
       "sheets_page": "characters/sheets/fatcat.md",
       "sheets": [
@@ -934,12 +715,15 @@
       ],
       "publication_hold": false,
       "original_art_credit": "Horizon",
-      "character_status": "side-character-concept-role-open"
+      "character_status": "side-character-concept-role-open",
+      "primary_reference": "images/character-sheets/fatcat/anime.webp",
+      "browse_preview": "images/previews/library-fatcat.webp",
+      "reader": "library/read/characters/fatcat.html"
     },
     {
       "id": "fleety",
       "name": "Fleety13",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/fleety.md",
       "sheets_page": "characters/sheets/fleety.md",
       "sheets": [
@@ -1025,24 +809,29 @@
           "height": 512
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/fleety/anime.webp",
+      "browse_preview": "images/previews/library-fleety.webp",
+      "reader": "library/read/characters/fleety.html"
     },
     {
       "id": "ggb",
       "name": "GGB \u2014 Gummy Bee",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/ggb.md",
       "sheets_page": "characters/sheets/ggb.md",
       "sheets": [],
       "publication_hold": false,
       "primary_reference": "images/ggb-reference-02.png",
-      "visual_status": "selected-reference-artwork"
+      "visual_status": "selected-reference-artwork",
+      "browse_preview": "images/previews/library-ggb.webp",
+      "reader": "library/read/characters/ggb.html"
     },
     {
       "id": "gille",
       "name": "Gille",
-      "group": "crew",
-      "profile": "characters/gille.md",
+      "group": "nous",
+      "profile": "characters/gille-and-coffeeblender.md",
       "sheets_page": "characters/sheets/gille.md",
       "sheets": [
         {
@@ -1127,12 +916,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/coffeeblender-and-gille-thermos.png",
+      "browse_preview": "images/previews/library-gille.webp",
+      "reader": "library/read/characters/gille-and-coffeeblender.html"
     },
     {
       "id": "gottz",
       "name": "Gottz",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/gottz.md",
       "sheets_page": "characters/sheets/gottz.md",
       "sheets": [
@@ -1218,12 +1010,208 @@
           "height": 1086
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/gottz/anime.webp",
+      "browse_preview": "images/previews/library-gottz.webp",
+      "reader": "library/read/characters/gottz.html"
+    },
+    {
+      "id": "heartbreaker",
+      "name": "Heartbreaker / Brooklyn",
+      "group": "nous",
+      "profile": "characters/heartbreaker.md",
+      "sheets_page": "characters/sheets/heartbreaker.md",
+      "sheets": [
+        {
+          "style": "anime",
+          "preview": "images/character-sheets/heartbreaker/anime.webp",
+          "sha256": "5848dd53ffdf668ec8b0c4d7ec6e5b7147cb316872b18b7c40ba6cc4a1d40a13",
+          "original_sha256": "2088d80623d35bdf49ad550c56151ea4c890f7cf5240533982c0dc647529a6b1",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/anime/brooklyn-heartbreaker__sheet__anime__v01.jpeg",
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "style": "chibi",
+          "preview": "images/character-sheets/heartbreaker/chibi.webp",
+          "sha256": "7956bdb3ec13b55a4a1401a5aae791cdba05623eb1ba647e6f90b04a1f91a3b1",
+          "original_sha256": "4c5534fde0befc2be8362dd285b17f12a56d88d2c1bec692da3a698f2336a995",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/chibi/brooklyn-heartbreaker__sheet__chibi__v01.jpeg",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "claymation-stop-motion",
+          "preview": "images/character-sheets/heartbreaker/claymation-stop-motion.webp",
+          "sha256": "baa19750b524347b94e548bc1365c9a97731cdd5c9595bc2b82d949d14d33d89",
+          "original_sha256": "e2ae90c088e70e2f77da72040cf49e57f1c706000221bee4a7985216e9e9599b",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/claymation-stop-motion/brooklyn-heartbreaker__sheet__claymation-stop-motion__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "disney",
+          "preview": "images/character-sheets/heartbreaker/disney.webp",
+          "sha256": "fa3bcf0f7455fe80184d68819648cd3ab4fb339d56a83093fc1ef3222351ef75",
+          "original_sha256": "968156d19e923ffead604e5515b886eaad737ad43882906a77af144116301963",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/disney/brooklyn-heartbreaker__sheet__disney__v01.jpeg",
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "style": "gothic",
+          "preview": "images/character-sheets/heartbreaker/gothic.webp",
+          "sha256": "9e2f04526f075ee0c6ca06eed28a385b42f8d7a75d73864760748d6aefae7ec0",
+          "original_sha256": "df8068a1b36d01b11d3c7fa6498b2a356217239098e0a4aea0df20a8412d06bf",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/gothic/brooklyn-heartbreaker__sheet__gothic__v01.jpeg",
+          "width": 1448,
+          "height": 1086
+        },
+        {
+          "style": "hyper-realistic",
+          "preview": "images/character-sheets/heartbreaker/hyper-realistic.webp",
+          "sha256": "e977601fcaa5c352c7f5e08576f2cf4dc0d209f4dcd34845f2a31327ae9ab363",
+          "original_sha256": "727426aa72cb5cc6a9275e09a7c0513d8ea10fd9635af84b58b363ff6d474153",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/hyper-realistic/brooklyn-heartbreaker__sheet__hyper-realistic__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "ink-pen-sketch",
+          "preview": "images/character-sheets/heartbreaker/ink-pen-sketch.webp",
+          "sha256": "a6e65838e882b70106be22a7e9fa1383dfeb0f5e91cf756759415a86ad1ea571",
+          "original_sha256": "690fabef383ec1ce47fe625559539f0a439fa6f74979c97ead527cd10baf4d74",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/ink-pen-sketch/brooklyn-heartbreaker__sheet__ink-pen-sketch__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "mecha",
+          "preview": "images/character-sheets/heartbreaker/mecha.webp",
+          "sha256": "5bd724b1d6a2e27ec1bacc4094465c92e13e99642e14e81e1809fec27eeea0d7",
+          "original_sha256": "21a39df195e1c17caa6dbd9c0af5c56f08d92a26f22862df7052a7bd6cf33cba",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/mecha/brooklyn-heartbreaker__sheet__mecha__v01.jpeg",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "rick-and-morty",
+          "preview": "images/character-sheets/heartbreaker/rick-and-morty.webp",
+          "sha256": "e9703ef82e2082bfeffd875d53d604f6e33a637bb7e9f87ddf408cfb79cbb4ad",
+          "original_sha256": "511475383764719588d4d934afc85d42a35afc91fcbedecf3eb0ce3d60dda7f1",
+          "original_archive_path": "characters/brooklyn-heartbreaker/styles/rick-and-morty/brooklyn-heartbreaker__sheet__rick-and-morty__v01.jpeg",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "publication_hold": false,
+      "primary_reference": "images/heartbreaker-sheet.png",
+      "browse_preview": "images/previews/library-heartbreaker.webp",
+      "reader": "library/read/characters/heartbreaker.html",
+      "aliases": [
+        "Heartbreaker",
+        "Brooklyn",
+        "Brooklyn / Heartbreaker"
+      ]
+    },
+    {
+      "id": "hermes-user-123321",
+      "name": "Hermes User 123321",
+      "group": "nous",
+      "profile": "characters/hermes-user-123321.md",
+      "sheets_page": "characters/sheets/hermes-user-123321.md",
+      "sheets": [
+        {
+          "style": "anime",
+          "preview": "images/character-sheets/hermes-user-123321/anime.webp",
+          "sha256": "61941be90858a9c872ce105aae81aa2bdd890e95eafca616581501739719681c",
+          "original_sha256": "7c1aac1c8b8b21a3c7a5479a9c475a714e8c80e9ecbfb555549ae28836e5f73d",
+          "original_archive_path": "characters/123321/styles/anime/123321__sheet__anime__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "chibi",
+          "preview": "images/character-sheets/hermes-user-123321/chibi.webp",
+          "sha256": "feab1e9cf041524e46540037bf46ed08238c7a5baafbb265af5093f0ce2ffae0",
+          "original_sha256": "aea6936ca15e759a061fd7eb30c131362ecd83b917f8589c02d2c14be0ebca61",
+          "original_archive_path": "characters/123321/styles/chibi/123321__sheet__chibi__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "claymation-stop-motion",
+          "preview": "images/character-sheets/hermes-user-123321/claymation-stop-motion.webp",
+          "sha256": "9029bf8a68fc4f0c8ebce7defd657053a0b694a6a204fff23594b25c74c6a0fd",
+          "original_sha256": "e7a5ee8b4cf9e2fc1378110f1d512d76d1048c59d95bb32ee6b88c28bfd35d34",
+          "original_archive_path": "characters/123321/styles/claymation-stop-motion/123321__sheet__claymation-stop-motion__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "disney",
+          "preview": "images/character-sheets/hermes-user-123321/disney.webp",
+          "sha256": "56fd73ab0f8c9220f3a91cddfdfe4b0da4a3fa68ade2260ba33bb5eefa8e86c1",
+          "original_sha256": "667c5d3358b06426da807a7090b640a1d84f73a2c641fed972d54a32924ce78d",
+          "original_archive_path": "characters/123321/styles/disney/123321__sheet__disney__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "gothic",
+          "preview": "images/character-sheets/hermes-user-123321/gothic.webp",
+          "sha256": "d3b6c79092a8da2e03ad0da8d3d6a6d5cd37878b03c3f56ad7350d8411242f3d",
+          "original_sha256": "1b1c678878048ea6679211e82e12f25d8c8e9b9e90632b3a01903359379561f0",
+          "original_archive_path": "characters/123321/styles/gothic/123321__sheet__gothic__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "hyper-realistic",
+          "preview": "images/character-sheets/hermes-user-123321/hyper-realistic.webp",
+          "sha256": "8c63668d31484ba1ea054fa8fc4ede4664e1a6e27087ce571aa67bd951005d5f",
+          "original_sha256": "799987f56e3a4891c17967e15d6426a14835654c8daab8982e7fe6d9def72404",
+          "original_archive_path": "characters/123321/styles/hyper-realistic/123321__sheet__hyper-realistic__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "ink-pen-sketch",
+          "preview": "images/character-sheets/hermes-user-123321/ink-pen-sketch.webp",
+          "sha256": "06e830189d0dc0891b3dd68fa451c040a762eae56fd76444400e18a5c711d536",
+          "original_sha256": "6bfb47292ce073904a47e081a42384f0e65bacb38ac84f4d6e48de90984d7693",
+          "original_archive_path": "characters/123321/styles/ink-pen-sketch/123321__sheet__ink-pen-sketch__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "mecha",
+          "preview": "images/character-sheets/hermes-user-123321/mecha.webp",
+          "sha256": "2caad92ea3afd7dfa5eddb8a35e6d5847127284179387b6e66a8425593eb7a17",
+          "original_sha256": "50b1ce542c648c1063ebe3430f40a9541975560ba18030d2f78710c5bfa66b36",
+          "original_archive_path": "characters/123321/styles/mecha/123321__sheet__mecha__v01.png",
+          "width": 1536,
+          "height": 1024
+        },
+        {
+          "style": "rick-and-morty",
+          "preview": "images/character-sheets/hermes-user-123321/rick-and-morty.webp",
+          "sha256": "4726475fae18023f5d2adf4058815c3048647eaddd876f1eaed72277827ac6ad",
+          "original_sha256": "c563e2632e74de384090a5eab5c0c674d7684d73d49556ef7d6210e520d1555a",
+          "original_archive_path": "characters/123321/styles/rick-and-morty/123321__sheet__rick-and-morty__v01.png",
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "publication_hold": false,
+      "primary_reference": "images/hermes-user-123321.png",
+      "browse_preview": "images/previews/library-hermes-user-123321.webp",
+      "reader": "library/read/characters/hermes-user-123321.html"
     },
     {
       "id": "isneezekittens",
       "name": "I Sneeze Kittens",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/isneezekittens.md",
       "sheets_page": "characters/sheets/isneezekittens.md",
       "sheets": [
@@ -1309,12 +1297,33 @@
           "height": 1254
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/isneezekittens-character-sheet.png",
+      "browse_preview": "images/previews/library-isneezekittens.webp",
+      "reader": "library/read/characters/isneezekittens.html"
+    },
+    {
+      "id": "mephisto",
+      "name": "Mephisto",
+      "primary_reference": "images/mephisto-snow-portrait.png",
+      "additional_references": [
+        "images/mephisto-cafe.png",
+        "images/mephisto-motorcycle.png",
+        "images/mephisto-sword-scene.png"
+      ],
+      "visual_status": "selected-reference-artwork",
+      "group": "nous",
+      "profile": "characters/mephisto.md",
+      "sheets_page": "characters/sheets/mephisto.md",
+      "sheets": [],
+      "publication_hold": false,
+      "browse_preview": "images/previews/library-mephisto.webp",
+      "reader": "library/read/characters/mephisto.html"
     },
     {
       "id": "mgf-654",
       "name": "MGF.654",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/mgf-654.md",
       "sheets_page": "characters/sheets/mgf-654.md",
       "sheets": [
@@ -1400,12 +1409,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/mgf-654/anime.webp",
+      "browse_preview": "images/previews/library-mgf-654.webp",
+      "reader": "library/read/characters/mgf-654.html"
     },
     {
       "id": "noctis",
       "name": "Noctis",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/noctis.md",
       "sheets_page": "characters/sheets/noctis.md",
       "sheets": [
@@ -1491,12 +1503,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/noctis-sheet.png",
+      "browse_preview": "images/previews/library-noctis.webp",
+      "reader": "library/read/characters/noctis.html"
     },
     {
       "id": "nous-girl",
-      "name": "NousGirl",
-      "group": "crew",
+      "name": "Nous Girl",
+      "group": "nous",
       "profile": "characters/nous-girl.md",
       "sheets_page": "characters/sheets/nous-girl.md",
       "sheets": [
@@ -1582,12 +1597,18 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/nous-girl-reference.png",
+      "browse_preview": "images/previews/library-nous-girl.webp",
+      "reader": "library/read/characters/nous-girl.html",
+      "aliases": [
+        "NousGirl"
+      ]
     },
     {
       "id": "quark2world",
       "name": "quark2world",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/quark2world.md",
       "sheets_page": "characters/sheets/quark2world.md",
       "sheets": [
@@ -1673,12 +1694,19 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/quark2world-main.png",
+      "browse_preview": "images/previews/library-quark2world.webp",
+      "reader": "library/read/characters/quark2world.html",
+      "aliases": [
+        "Quark",
+        "quark2world"
+      ]
     },
     {
       "id": "realtimeuk",
       "name": "realtimeuk",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/realtimeuk.md",
       "sheets_page": "characters/sheets/realtimeuk.md",
       "sheets": [
@@ -1764,12 +1792,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/realtimeuk/anime.webp",
+      "browse_preview": "images/previews/library-realtimeuk.webp",
+      "reader": "library/read/characters/realtimeuk.html"
     },
     {
       "id": "sahil",
       "name": "Sahil",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/sahil.md",
       "sheets_page": "characters/sheets/sahil.md",
       "sheets": [
@@ -1864,12 +1895,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/sahil/anime.webp",
+      "browse_preview": "images/previews/library-sahil.webp",
+      "reader": "library/read/characters/sahil.html"
     },
     {
       "id": "salt555",
       "name": "salt555",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/salt555.md",
       "sheets_page": "characters/sheets/salt555.md",
       "sheets": [
@@ -1955,12 +1989,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/salt555/anime.webp",
+      "browse_preview": "images/previews/library-salt555.webp",
+      "reader": "library/read/characters/salt555.html"
     },
     {
       "id": "shawncleta",
       "name": "shawncleta",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/shawncleta.md",
       "sheets_page": "characters/sheets/shawncleta.md",
       "sheets": [
@@ -2046,12 +2083,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/shawncleta/anime.webp",
+      "browse_preview": "images/previews/library-shawncleta.webp",
+      "reader": "library/read/characters/shawncleta.html"
     },
     {
       "id": "sidbin",
       "name": "Sidbin \u2014 Mirror Shade",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/sidbin.md",
       "sheets_page": "characters/sheets/sidbin.md",
       "sheets": [
@@ -2137,12 +2177,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/sidbin-sheet.png",
+      "browse_preview": "images/previews/library-sidbin.webp",
+      "reader": "library/read/characters/sidbin.html"
     },
     {
       "id": "sudo-nightwing",
       "name": "sudo-nightwing",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/sudo-nightwing.md",
       "sheets_page": "characters/sheets/sudo-nightwing.md",
       "sheets": [
@@ -2201,12 +2244,16 @@
           "height": 1086
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/sudo-nightwing/anime.webp",
+      "visual_status": "supplementary-reference-art",
+      "browse_preview": "images/previews/library-sudo-nightwing.webp",
+      "reader": "library/read/characters/sudo-nightwing.html"
     },
     {
       "id": "suzu",
       "name": "Suzu",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/suzu.md",
       "sheets_page": "characters/sheets/suzu.md",
       "sheets": [
@@ -2292,12 +2339,16 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/suzu/anime.webp",
+      "visual_status": "supplementary-reference-art",
+      "browse_preview": "images/previews/library-suzu.webp",
+      "reader": "library/read/characters/suzu.html"
     },
     {
       "id": "tdamre",
       "name": "tdamre",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/tdamre.md",
       "sheets_page": "characters/sheets/tdamre.md",
       "sheets": [
@@ -2383,12 +2434,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/tdamre/anime.webp",
+      "browse_preview": "images/previews/library-tdamre.webp",
+      "reader": "library/read/characters/tdamre.html"
     },
     {
       "id": "teknium",
       "name": "Teknium",
-      "group": "founders",
+      "group": "nous",
       "profile": "characters/teknium.md",
       "sheets_page": "characters/sheets/teknium.md",
       "sheets": [
@@ -2495,12 +2549,14 @@
       ],
       "publication_hold": false,
       "primary_reference": "images/teknium-leafage-shades.png",
-      "alternate_art_approval": "individual-Mike-review-required"
+      "alternate_art_approval": "individual-Mike-review-required",
+      "browse_preview": "images/previews/library-teknium.webp",
+      "reader": "library/read/characters/teknium.html"
     },
     {
       "id": "tinuviel",
       "name": "Tinuviel \u2014 The Starry Wanderer",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/tinuviel.md",
       "sheets_page": "characters/sheets/tinuviel.md",
       "sheets": [
@@ -2586,12 +2642,15 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/tinuviel-sheet.png",
+      "browse_preview": "images/previews/library-tinuviel.webp",
+      "reader": "library/read/characters/tinuviel.html"
     },
     {
       "id": "tunacookie",
       "name": "TunaCookie",
-      "group": "contributors",
+      "group": "nous",
       "profile": "characters/tunacookie.md",
       "sheets_page": "characters/sheets/tunacookie.md",
       "sheets": [
@@ -2677,12 +2736,15 @@
           "height": 1086
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/character-sheets/tunacookie/anime.webp",
+      "browse_preview": "images/previews/library-tunacookie.webp",
+      "reader": "library/read/characters/tunacookie.html"
     },
     {
       "id": "turbo-fit",
-      "name": "Sovthpaw / Turbo Fit",
-      "group": "crew",
+      "name": "Turbo Fit / Sovthpaw",
+      "group": "nous",
       "profile": "characters/turbo-fit.md",
       "sheets_page": "characters/sheets/turbo-fit.md",
       "sheets": [
@@ -2768,12 +2830,22 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/turbo-fit-sheet.png",
+      "browse_preview": "images/previews/library-turbo-fit.webp",
+      "reader": "library/read/characters/turbo-fit.html",
+      "aliases": [
+        "TurboFit",
+        "Turbofit",
+        "Sovthpaw",
+        "Turbo Fit",
+        "Sovthpaw / Turbo Fit"
+      ]
     },
     {
       "id": "witcheer",
       "name": "Witcheer",
-      "group": "crew",
+      "group": "nous",
       "profile": "characters/witcheer.md",
       "sheets_page": "characters/sheets/witcheer.md",
       "sheets": [
@@ -2850,23 +2922,10 @@
           "height": 1024
         }
       ],
-      "publication_hold": false
-    },
-    {
-      "id": "mephisto",
-      "name": "Mephisto",
-      "primary_reference": "images/mephisto-snow-portrait.png",
-      "additional_references": [
-        "images/mephisto-cafe.png",
-        "images/mephisto-motorcycle.png",
-        "images/mephisto-sword-scene.png"
-      ],
-      "visual_status": "selected-reference-artwork",
-      "group": "founders",
-      "profile": "characters/mephisto.md",
-      "sheets_page": "characters/sheets/mephisto.md",
-      "sheets": [],
-      "publication_hold": false
+      "publication_hold": false,
+      "primary_reference": "images/witcheer-character-sheet.png",
+      "browse_preview": "images/previews/library-witcheer.webp",
+      "reader": "library/read/characters/witcheer.html"
     }
   ]
 }

@@ -1,51 +1,40 @@
-# All Characters
+# All Nous characters
 
-**[← Back to the front page](../README.md)**
+[← Archive home](../README.md) · [Search the visual library](../library/index.html)
 
-Click a name to open the character page. Click **Sheets** for extra art styles. Use **Ctrl+F** (or your browser’s Find command) to find a name.
+One alphabetical cast. Every name opens a readable profile; downloads are optional. Doge Man, Super Shiba and 123mikeyD are one character.
 
-**[Founders](#founders)** · **[Nous Crew](#nous-crew)** · **[Everyone Else](#contributors--side-characters)**
-
-## Founders
-
-- [Teknium](./teknium.md) · [Sheets](./sheets/teknium.md)
-- [Mephisto](./mephisto.md) · [Reference artwork](./sheets/mephisto.md)
-- [Emo / Jeffrey Quesnelle](./emozilla.md) · Sheet not yet available
-
-## Nous Crew
-
-- [Turbo Fit](./turbo-fit.md) · [Sheets](./sheets/turbo-fit.md)
-- [Heartbreaker](./heartbreaker.md) · [Sheets](./sheets/heartbreaker.md)
-- [Gille](./gille.md) · [Sheets](./sheets/gille.md)
-- [Tinuviel](./tinuviel.md) · [Sheets](./sheets/tinuviel.md)
-- [Sidbin](./sidbin.md) · [Sheets](./sheets/sidbin.md)
-- [Witcheer](./witcheer.md) · [Sheets](./sheets/witcheer.md)
-
-- [Cthulhu](./cthulhu.md) · [Sheets](./sheets/cthulhu.md)
-- [Doge Man / Super Shiba / 123mikeyD](./doge-man.md) · [Sheets](./sheets/doge-man.md)
-- [ee.dd](./ee-dd.md) · Landscape avatar reference
-- [GGB — Gummy Bee](./ggb.md)
-- [Nous Girl](./nous-girl.md) · [Sheets](./sheets/nous-girl.md)
-- [sudo-nightwing](./sudo-nightwing.md) · [Sheets](./sheets/sudo-nightwing.md)
-
-## Contributors & Side Characters
-
-- [adolan](./adolan.md) · [Sheets](./sheets/adolan.md)
-- [ArtsBro](./artsbro.md) · [Sheets](./sheets/artsbro.md)
-- [coffeeblender](./coffeeblender.md) · [Sheets](./sheets/coffeeblender.md)
-- [Don Piedro](./don-piedro.md) · [Sheets](./sheets/don-piedro.md)
-- [FatCat](./fatcat.md) · [Concept sheets](./sheets/fatcat.md) · Story role open
-- [Fleety13](./fleety.md) · [Sheets](./sheets/fleety.md)
-- [Gottz](./gottz.md) · [Sheets](./sheets/gottz.md)
-- [Hermes User: 123321](./hermes-user-123321.md) · [Sheets](./sheets/hermes-user-123321.md)
-- [I Sneeze Kittens](./isneezekittens.md) · [Sheets](./sheets/isneezekittens.md)
-- [MGF.654](./mgf-654.md) · [Sheets](./sheets/mgf-654.md)
-- [Noctis](./noctis.md) · [Sheets](./sheets/noctis.md)
-- [quark2world](./quark2world.md) · [Sheets](./sheets/quark2world.md)
-- [realtimeuk](./realtimeuk.md) · [Sheets](./sheets/realtimeuk.md)
-- [Sahil](./sahil.md) · [Sheets](./sheets/sahil.md)
-- [salt555](./salt555.md) · [Sheets](./sheets/salt555.md)
-- [shawncleta](./shawncleta.md) · [Sheets](./sheets/shawncleta.md)
-- [Suzu](./suzu.md) · [Sheets](./sheets/suzu.md)
-- [tdamre](./tdamre.md) · [Sheets](./sheets/tdamre.md)
-- [TunaCookie](./tunacookie.md) · [Sheets](./sheets/tunacookie.md)
+- [adolan](./adolan.md) — adolan
+- [ArtsBro](./artsbro.md) — artsbro, ArtsBro
+- [Cthulhu](./cthulhu.md) — cthulhu, Cthulhu
+- [Doge Man](./doge-man.md) — 123mikeyD, 123mikeyd, Super Shiba, Dogeman, doge-man, Doge Man
+- [Don Piedro](./don-piedro.md) — don-piedro, Don Piedro
+- [drahcir_rahl](./drahcir-rahl.md) — rahlquist, The IT Juggernaut, drahcir-rahl, drahcir_rahl
+- [ee.dd](./ee-dd.md) — ee-dd, ee.dd
+- [Emo / Emozilla](./emozilla.md) — Emo, Emozilla, Jeffrey Quesnelle, Jeffrey Quesnelle / Emozilla, emozilla, Emo / Emozilla
+- [FatCat](./fatcat.md) — fatcat, FatCat
+- [Fleety13](./fleety.md) — fleety, Fleety13
+- [GGB — Gummy Bee](./ggb.md) — ggb, GGB — Gummy Bee
+- [Gille & CoffeeBlender](./gille-and-coffeeblender.md) — Coffee Blender, coffeeblender, gille, Gille
+- [Gottz](./gottz.md) — gottz, Gottz
+- [Heartbreaker / Brooklyn](./heartbreaker.md) — Heartbreaker, Brooklyn, Brooklyn / Heartbreaker, heartbreaker, Heartbreaker / Brooklyn
+- [Hermes User 123321](./hermes-user-123321.md) — hermes-user-123321, Hermes User 123321
+- [I Sneeze Kittens](./isneezekittens.md) — isneezekittens, I Sneeze Kittens
+- [Mephisto](./mephisto.md) — mephisto, Mephisto
+- [MGF.654](./mgf-654.md) — mgf-654, MGF.654
+- [Noctis](./noctis.md) — noctis, Noctis
+- [Nous Girl](./nous-girl.md) — NousGirl, nous-girl, Nous Girl
+- [quark2world](./quark2world.md) — Quark, quark2world
+- [realtimeuk](./realtimeuk.md) — realtimeuk
+- [Sahil](./sahil.md) — sahil, Sahil
+- [salt555](./salt555.md) — salt555
+- [shawncleta](./shawncleta.md) — shawncleta
+- [Sidbin — Mirror Shade](./sidbin.md) — sidbin, Sidbin — Mirror Shade
+- [sudo-nightwing](./sudo-nightwing.md) — sudo-nightwing
+- [Suzu](./suzu.md) — suzu, Suzu
+- [tdamre](./tdamre.md) — tdamre
+- [Teknium](./teknium.md) — teknium, Teknium
+- [Tinuviel — The Starry Wanderer](./tinuviel.md) — tinuviel, Tinuviel — The Starry Wanderer
+- [TunaCookie](./tunacookie.md) — tunacookie, TunaCookie
+- [Turbo Fit / Sovthpaw](./turbo-fit.md) — TurboFit, Turbofit, Sovthpaw, Turbo Fit, Sovthpaw / Turbo Fit, turbo-fit, Turbo Fit / Sovthpaw
+- [Witcheer](./witcheer.md) — witcheer, Witcheer

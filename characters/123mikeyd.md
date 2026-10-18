@@ -1,6 +1,6 @@
 # 123mikeyD — Doge Man / Super Shiba
 
-**Nous Crew** · [Open the main Doge Man profile](./doge-man.md)
+**Nous** · [Open the main Doge Man profile](./doge-man.md)
 
 ![123mikeyd character sheet](../images/character-sheets/123mikeyd/anime.webp)
 

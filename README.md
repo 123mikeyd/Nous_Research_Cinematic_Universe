@@ -8,67 +8,70 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 **Open Source for All.**
 
-## Start here
+## Explore the archive
 
-### [🌐 Browse the Character Library](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/) · [🎮 Play the NRCU fighter in your browser](https://123mikeyd.github.io/nrcu-platform-fighter/)
+**[Open the searchable visual library](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/)** · **[Alphabetical character directory](./characters/README.md)**
 
-**[Find a character](./characters/README.md)** · **[Download a model](#-download-3d-models)** · **[Watch the videos](#-music-videos)**
+All Nous. One cast, in alphabetical order. Open any picture or name to read the profile and see the artwork—no model download needed.
 
-Click a character picture below to open their page. For extra art styles, use **Sheets** beside their name in [All Characters](./characters/README.md).
+## All Nous characters
 
-### Founders
-
+<!-- BEGIN GENERATED CHARACTER GALLERY -->
 <table>
 <tr>
-<td align="center"><a href="./characters/teknium.md"><img src="./images/teknium-leafage-shades.png" alt="Teknium head reference" width="160"><br><strong>Teknium</strong></a></td>
-<td align="center"><a href="./characters/mephisto.md"><img src="./images/previews/mephisto-snow-portrait.webp" alt="Mephisto snow portrait with eyes closed" width="160"><br><strong>Mephisto</strong></a></td>
-<td align="center"><a href="./characters/emozilla.md"><strong>Emo</strong></a><br>Artwork coming later</td>
+<td align="center"><a href="./characters/adolan.md"><img src="./images/previews/library-adolan.webp" alt="adolan reference artwork" width="180"><br><strong>adolan</strong></a></td>
+<td align="center"><a href="./characters/artsbro.md"><img src="./images/previews/library-artsbro-masked.webp" alt="ArtsBro reference artwork" width="180"><br><strong>ArtsBro</strong></a></td>
+<td align="center"><a href="./characters/cthulhu.md"><img src="./images/previews/library-cthulhu.webp" alt="Cthulhu reference artwork" width="180"><br><strong>Cthulhu</strong></a></td>
+<td align="center"><a href="./characters/doge-man.md"><img src="./images/previews/library-doge-man.webp" alt="Doge Man reference artwork" width="180"><br><strong>Doge Man</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/don-piedro.md"><img src="./images/previews/library-don-piedro.webp" alt="Don Piedro reference artwork" width="180"><br><strong>Don Piedro</strong></a></td>
+<td align="center"><a href="./characters/drahcir-rahl.md"><img src="./images/previews/library-drahcir-rahl.webp" alt="drahcir_rahl reference artwork" width="180"><br><strong>drahcir_rahl</strong></a></td>
+<td align="center"><a href="./characters/ee-dd.md"><img src="./images/previews/library-ee-dd.webp" alt="ee.dd reference artwork" width="180"><br><strong>ee.dd</strong></a></td>
+<td align="center"><a href="./characters/emozilla.md">Artwork not yet available<br><strong>Emo / Emozilla</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/fatcat.md"><img src="./images/previews/library-fatcat.webp" alt="FatCat reference artwork" width="180"><br><strong>FatCat</strong></a></td>
+<td align="center"><a href="./characters/fleety.md"><img src="./images/previews/library-fleety.webp" alt="Fleety13 reference artwork" width="180"><br><strong>Fleety13</strong></a></td>
+<td align="center"><a href="./characters/ggb.md"><img src="./images/previews/library-ggb.webp" alt="GGB — Gummy Bee reference artwork" width="180"><br><strong>GGB — Gummy Bee</strong></a></td>
+<td align="center"><a href="./characters/gille-and-coffeeblender.md"><img src="./images/previews/library-coffeeblender.webp" alt="Gille &amp; CoffeeBlender reference artwork" width="180"><br><strong>Gille &amp; CoffeeBlender</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/gottz.md"><img src="./images/previews/library-gottz.webp" alt="Gottz reference artwork" width="180"><br><strong>Gottz</strong></a></td>
+<td align="center"><a href="./characters/heartbreaker.md"><img src="./images/previews/library-heartbreaker.webp" alt="Heartbreaker / Brooklyn reference artwork" width="180"><br><strong>Heartbreaker / Brooklyn</strong></a></td>
+<td align="center"><a href="./characters/hermes-user-123321.md"><img src="./images/previews/library-hermes-user-123321.webp" alt="Hermes User 123321 reference artwork" width="180"><br><strong>Hermes User 123321</strong></a></td>
+<td align="center"><a href="./characters/isneezekittens.md"><img src="./images/previews/library-isneezekittens.webp" alt="I Sneeze Kittens reference artwork" width="180"><br><strong>I Sneeze Kittens</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/mephisto.md"><img src="./images/previews/library-mephisto.webp" alt="Mephisto reference artwork" width="180"><br><strong>Mephisto</strong></a></td>
+<td align="center"><a href="./characters/mgf-654.md"><img src="./images/previews/library-mgf-654.webp" alt="MGF.654 reference artwork" width="180"><br><strong>MGF.654</strong></a></td>
+<td align="center"><a href="./characters/noctis.md"><img src="./images/previews/library-noctis.webp" alt="Noctis reference artwork" width="180"><br><strong>Noctis</strong></a></td>
+<td align="center"><a href="./characters/nous-girl.md"><img src="./images/previews/library-nous-girl.webp" alt="Nous Girl reference artwork" width="180"><br><strong>Nous Girl</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/quark2world.md"><img src="./images/previews/library-quark2world.webp" alt="quark2world reference artwork" width="180"><br><strong>quark2world</strong></a></td>
+<td align="center"><a href="./characters/realtimeuk.md"><img src="./images/previews/library-realtimeuk.webp" alt="realtimeuk reference artwork" width="180"><br><strong>realtimeuk</strong></a></td>
+<td align="center"><a href="./characters/sahil.md"><img src="./images/previews/library-sahil.webp" alt="Sahil reference artwork" width="180"><br><strong>Sahil</strong></a></td>
+<td align="center"><a href="./characters/salt555.md"><img src="./images/previews/library-salt555.webp" alt="salt555 reference artwork" width="180"><br><strong>salt555</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/shawncleta.md"><img src="./images/previews/library-shawncleta.webp" alt="shawncleta reference artwork" width="180"><br><strong>shawncleta</strong></a></td>
+<td align="center"><a href="./characters/sidbin.md"><img src="./images/previews/library-sidbin.webp" alt="Sidbin — Mirror Shade reference artwork" width="180"><br><strong>Sidbin — Mirror Shade</strong></a></td>
+<td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/previews/library-sudo-nightwing.webp" alt="sudo-nightwing reference artwork" width="180"><br><strong>sudo-nightwing</strong></a></td>
+<td align="center"><a href="./characters/suzu.md"><img src="./images/previews/library-suzu.webp" alt="Suzu reference artwork" width="180"><br><strong>Suzu</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/tdamre.md"><img src="./images/previews/library-tdamre.webp" alt="tdamre reference artwork" width="180"><br><strong>tdamre</strong></a></td>
+<td align="center"><a href="./characters/teknium.md"><img src="./images/previews/library-teknium.webp" alt="Teknium reference artwork" width="180"><br><strong>Teknium</strong></a></td>
+<td align="center"><a href="./characters/tinuviel.md"><img src="./images/previews/library-tinuviel.webp" alt="Tinuviel — The Starry Wanderer reference artwork" width="180"><br><strong>Tinuviel — The Starry Wanderer</strong></a></td>
+<td align="center"><a href="./characters/tunacookie.md"><img src="./images/previews/library-tunacookie.webp" alt="TunaCookie reference artwork" width="180"><br><strong>TunaCookie</strong></a></td>
+</tr>
+<tr>
+<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/previews/library-turbo-fit.webp" alt="Turbo Fit / Sovthpaw reference artwork" width="180"><br><strong>Turbo Fit / Sovthpaw</strong></a></td>
+<td align="center"><a href="./characters/witcheer.md"><img src="./images/previews/library-witcheer.webp" alt="Witcheer reference artwork" width="180"><br><strong>Witcheer</strong></a></td>
 </tr>
 </table>
-
-### Nous Crew
-
-<table>
-<tr>
-<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/previews/turbo-fit-sheet.webp" alt="Turbo Fit reference sheet" width="160"><br><strong>Turbo Fit</strong></a></td>
-<td align="center"><a href="./characters/heartbreaker.md"><img src="./images/previews/heartbreaker-sheet.webp" alt="Heartbreaker reference sheet" width="160"><br><strong>Heartbreaker</strong></a></td>
-<td align="center"><a href="./characters/gille.md"><img src="./images/previews/coffeeblender-and-gille-thermos.webp" alt="Gille and coffeeblender scene reference" width="160"><br><strong>Gille</strong></a></td>
-</tr>
-<tr>
-<td align="center"><a href="./characters/tinuviel.md"><img src="./images/previews/tinuviel-sheet.webp" alt="Tinuviel reference sheet" width="160"><br><strong>Tinuviel</strong></a></td>
-<td align="center"><a href="./characters/sidbin.md"><img src="./images/previews/sidbin-sheet.webp" alt="Sidbin reference sheet" width="160"><br><strong>Sidbin</strong></a></td>
-<td align="center"><a href="./characters/witcheer.md"><img src="./images/previews/witcheer-character-sheet.webp" alt="Witcheer reference sheet" width="160"><br><strong>Witcheer</strong></a></td>
-</tr>
-<tr>
-<td align="center"><a href="./characters/nous-girl.md"><img src="./images/nous-girl-reference.png" alt="Nous Girl sketch reference" width="160"><br><strong>Nous Girl</strong></a></td>
-<td align="center"><a href="./characters/doge-man.md"><img src="./images/previews/doge-man-model-preview.webp" alt="Doge Man model preview" width="160"><br><strong>Doge Man</strong></a></td>
-<td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/previews/sudo-nightwing-anime.webp" alt="sudo-nightwing reference sheet" width="160"><br><strong>sudo-nightwing</strong></a></td>
-</tr>
-<tr>
-<td align="center"><a href="./characters/ggb.md"><img src="./images/previews/ggb-reference-02.webp" alt="GGB reference artwork" width="160"><br><strong>GGB</strong></a></td>
-<td align="center"><a href="./characters/ee-dd.md"><img src="./images/previews/ee-dd-landscape.webp" width="180" alt="ee.dd landscape avatar"><br><strong>ee.dd</strong></a><br>Landscape avatar</td>
-<td align="center"><a href="./characters/cthulhu.md"><img src="./images/character-sheets/cthulhu/anime.webp" alt="Cthulhu reference sheet" width="160"><br><strong>Cthulhu</strong></a></td>
-</tr>
-</table>
-
-### Everyone Else
-
-**[Browse contributors and side characters →](./characters/README.md#contributors--side-characters)**
-
-## 📦 Download 3D Models
-
-Rigged character models with skeletons, skin weights, embedded textures, and animation clips. Download a ZIP, unzip it, and import the GLB into Blender or another glTF-compatible application.
-
-| Character | Download | Character Page |
-|-----------|----------|----------------|
-| Teknium | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip) | [Teknium](./characters/teknium.md) |
-| Doge Man | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/DogeMan-rigged.zip) | [Doge Man](./characters/doge-man.md) |
-| TurboFit | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip) | [Turbo Fit](./characters/turbo-fit.md) |
-| Witcheer | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Witcheer-rigged.zip) | [Witcheer](./characters/witcheer.md) |
-
-![3D character lineup in Blender](./images/3d-character-lineup.png)
-
-[Browse the full model release](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1). The existing [Content Notice](./CONTENT-NOTICE.md) applies; no additional license is added.
+<!-- END GENERATED CHARACTER GALLERY -->
 
 ## 🎨 Story Scenes
 
@@ -124,6 +127,21 @@ Videos are linked from their production pages instead of stored as raw MP4s, so 
 | [`images/`](./images) | Original artwork files |
 
 ---
+
+## Optional 3D model downloads
+
+Rigged character models with skeletons, skin weights, embedded textures, and animation clips. Download a ZIP, unzip it, and import the GLB into Blender or another glTF-compatible application.
+
+| Character | Download | Character Page |
+|-----------|----------|----------------|
+| Teknium | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip) | [Teknium](./characters/teknium.md) |
+| Doge Man | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/DogeMan-rigged.zip) | [Doge Man](./characters/doge-man.md) |
+| TurboFit | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip) | [Turbo Fit](./characters/turbo-fit.md) |
+| Witcheer | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Witcheer-rigged.zip) | [Witcheer](./characters/witcheer.md) |
+
+[View the 3D character lineup](./images/3d-character-lineup.png)
+
+[Browse the full model release](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1). The existing [Content Notice](./CONTENT-NOTICE.md) applies; no additional license is added.
 
 ## Content Notice
 

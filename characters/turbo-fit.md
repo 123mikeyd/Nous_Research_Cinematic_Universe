@@ -2,12 +2,6 @@
 
 ![Turbo Fit Character Sheet](../images/turbo-fit-sheet.png)
 
-## 3D Model
-
-**[Download TurboFit — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip)**
-
-Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).
-
 ## Core Stats
 
 | Attribute | Value |
@@ -61,3 +55,9 @@ Around **02:40**, Sovthpaw / Turbo Fit appears in a small home workspace with a 
 ## Design Notes
 
 Turbo Fit is the squad's rock-and-roll hardware hacker and local model guru. Long messy dark redish/brown wavy hair, dark sunglasses, punk/grunge styling — sleeveless worn graphic shirt, tactical joggers, leather/metal accessories, boots, with a bass guitar slung over his back. The "NR" (Nous Research) logo appears on the back of his shirt. His "weapon" is a high-end NVIDIA Blackwell 6000 graphics card or an electric guitar — a fitting symbol for a tech builder who fights with open-source conviction.
+
+## Optional 3D model download
+
+**[Download TurboFit — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip)**
+
+Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).

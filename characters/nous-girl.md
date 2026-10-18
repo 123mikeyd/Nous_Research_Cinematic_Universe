@@ -1,6 +1,6 @@
 # Nous Girl
 
-**Nous Crew**
+**Nous**
 
 ![Nous Girl neutral portrait](../images/nous-girl-reference.png)
 

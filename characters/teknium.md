@@ -2,12 +2,6 @@
 
 ![Teknium](../images/teknium-leafage-shades.png)
 
-## 3D Model
-
-**[Download Teknium — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip)**
-
-Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).
-
 ## Core Stats
 
 | Attribute | Value |
@@ -39,3 +33,9 @@ Teknium is the squad's green-haired leader. His spiky hair carries visible leafa
 
 - **Glowing Tablet:** Displays green schematics, maps, and strategic data
 - **NR Patches:** Nous Research insignia on jacket shoulders
+
+## Optional 3D model download
+
+**[Download Teknium — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip)**
+
+Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).

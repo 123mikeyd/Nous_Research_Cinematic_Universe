@@ -1,12 +1,12 @@
 # Mephisto
 
-**Browse group:** Founders
+**Archive:** Nous
 
 ![Mephisto snow portrait: orange hair, closed eyes, knit sweater, and dark jacket](../images/mephisto-snow-portrait.png)
 
 [View reference artwork](./sheets/mephisto.md) · [All characters](./README.md)
 
-Mephisto is included in the NRCU Founders collection. The primary artwork is a pixel-art portrait with orange hair, closed eyes, a knit sweater, and a dark jacket in falling snow.
+Mephisto is included in the NRCU character archive. The primary artwork is a pixel-art portrait with orange hair, closed eyes, a knit sweater, and a dark jacket in falling snow.
 
 ## Platform fighter adaptation
 

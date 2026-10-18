@@ -1,6 +1,6 @@
 # adolan
 
-**Browse group:** Contributors & Side Characters
+**Archive:** Nous
 
 ![adolan character sheet](../images/character-sheets/adolan/anime.webp)
 
@@ -10,4 +10,4 @@
 
 adolan is included in the NRCU character library with reference sheets from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse/tree/15af249624130b7823a151d2390d93ae05ba93de/characters/adolan).
 
-Story roles, affiliations, powers, and relationships remain open unless separately established. The browsing group does not assert employment or fictional allegiance.
+Story roles, affiliations, powers, and relationships remain open unless separately established. Archive inclusion does not assert employment or fictional allegiance.

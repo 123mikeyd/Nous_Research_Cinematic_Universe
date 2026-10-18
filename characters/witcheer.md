@@ -2,13 +2,7 @@
 
 ![Witcheer character reference sheet](../images/witcheer-character-sheet.png)
 
-> **Nous Crew — confirmed appearance**
-
-## 3D Model
-
-**[Download Witcheer — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Witcheer-rigged.zip)**
-
-Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).
+> **Nous — confirmed appearance**
 
 ## Confirmed identity and appearance
 
@@ -53,3 +47,9 @@ The sheet describes Witcheer as a slick, cunning, charismatic trickster who turn
 
 - Is he really a duck? 
 - Additional affiliations or story history beyond what the Duck does.
+
+## Optional 3D model download
+
+**[Download Witcheer — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Witcheer-rigged.zip)**
+
+Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).

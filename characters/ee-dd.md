@@ -1,6 +1,6 @@
 # ee.dd
 
-> **Nous Crew · Community moderator**
+> **Nous · Community moderator**
 
 ## Confirmed facts
 
@@ -25,4 +25,4 @@ Included for archival reference under the [content notice](../CONTENT-NOTICE.md)
 
 ## Deliberate boundaries
 
-This archive records ee.dd’s Nous Crew membership, community role, video cameo, and the landscape avatar. Fictional backstory and abilities remain open.
+This archive records ee.dd’s place in the Nous cast, community role, video cameo, and the landscape avatar. Fictional backstory and abilities remain open.

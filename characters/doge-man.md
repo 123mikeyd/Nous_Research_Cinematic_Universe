@@ -2,7 +2,7 @@
 
 **Also known as:** 123mikeyD · Super Shiba
 
-**Nous Crew**
+**Nous**
 
 ![Doge Man 3D model preview in a flying pose, wearing a red suit top, blue pants, silver gauntlets, and a golden-yellow cape](../images/doge-man-model-preview.png)
 
@@ -31,7 +31,7 @@ His origin and the source of his abilities remain open.
 
 Both collections belong to the same character. Existing file paths are preserved for older links.
 
-## 3D Model
+## Optional 3D model download
 
 **[Download Doge Man — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/DogeMan-rigged.zip)**
 

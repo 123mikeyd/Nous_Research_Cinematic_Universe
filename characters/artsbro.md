@@ -1,13 +1,17 @@
 # ArtsBro
 
-**Browse group:** Contributors & Side Characters
+**Archive:** Nous
 
-![ArtsBro character sheet](../images/character-sheets/artsbro/anime.webp)
+![ArtsBro in black hooded robes and a fully concealing cosmic-colored mask](../images/artsbro-masked-full-body.png)
 
-[Browse all character sheets](./sheets/artsbro.md) · [All characters](./README.md)
+[Mask details](./sheets/artsbro.md) · [All characters](./README.md)
 
 ## Character reference
 
-ArtsBro is included in the NRCU character library with reference sheets from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse/tree/15af249624130b7823a151d2390d93ae05ba93de/characters/artsbro).
+ArtsBro wears layered black hooded robes, gloves, and boots. His face stays hidden behind a full mask with purple, magenta, and cyan coloring and a bright central motif.
 
-Story roles, affiliations, powers, and relationships remain open unless separately established. The browsing group does not assert employment or fictional allegiance.
+## Mask details
+
+![ArtsBro mask from the front, three-quarter view, and side](../images/artsbro-mask-details.png)
+
+Story roles, affiliations, powers, and relationships remain open unless separately established. Archive inclusion does not assert employment or fictional allegiance.

@@ -1,6 +1,6 @@
 # GGB — Gummy Bee
 
-**Nous Crew**
+**Nous**
 
 ![GGB waking beside the riverbank](../images/ggb-reference-02.png)
 
