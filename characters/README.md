@@ -28,6 +28,7 @@ One alphabetical cast. Every name opens a readable profile; downloads are option
 - [realtimeuk](./realtimeuk.md) — realtimeuk
 - [Sahil](./sahil.md) — sahil, Sahil
 - [salt555](./salt555.md) — salt555
+- [Scary Jerry](./scary-jerry.md) — ScaryJerry, scary-jerry, Scary Jerry
 - [shawncleta](./shawncleta.md) — shawncleta
 - [Sidbin — Mirror Shade](./sidbin.md) — sidbin, Sidbin — Mirror Shade
 - [sudo-nightwing](./sudo-nightwing.md) — sudo-nightwing

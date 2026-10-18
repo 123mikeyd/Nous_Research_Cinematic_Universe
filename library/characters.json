@@ -1995,6 +1995,17 @@
       "reader": "library/read/characters/salt555.html"
     },
     {
+      "id": "scary-jerry",
+      "name": "Scary Jerry",
+      "group": "nous",
+      "profile": "characters/scary-jerry.md",
+      "aliases": ["ScaryJerry"],
+      "publication_hold": false,
+      "primary_reference": "images/scary-jerry-turnaround.png",
+      "browse_preview": "images/previews/library-scary-jerry.webp",
+      "reader": "library/read/characters/scary-jerry.html"
+    },
+    {
       "id": "shawncleta",
       "name": "shawncleta",
       "group": "nous",
