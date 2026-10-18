@@ -34,6 +34,10 @@ Teknium is the squad's green-haired leader. His spiky hair carries visible leafa
 - **Glowing Tablet:** Displays green schematics, maps, and strategic data
 - **NR Patches:** Nous Research insignia on jacket shoulders
 
+## Supplementary art
+
+[Browse Teknium’s approved alternate sheets](./sheets/teknium.md): Anime alternate and Chess-themed alternate — pose and expression sheet. These are supplementary art; the established primary reference above remains unchanged.
+
 ## Optional 3D model download
 
 **[Download Teknium — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip)**

@@ -67,6 +67,20 @@ for c in cast:
  cards.append('<article class="card" data-id="'+esc(c['id'])+'" data-search="'+esc(search)+'"><a href="'+relative(c['reader'],'library/index.html')+'">'+pic+'<h2>'+esc(c['name'])+'</h2><p>'+esc(note)+'</p><span class="read">Read profile <span aria-hidden="true">↗</span></span></a></article>')
 body=header('library/index.html')+'''<main id="content"><section class="intro" aria-labelledby="title"><div><span class="eyebrow">Nous Research Cinematic Universe</span><h1 id="title">All Nous.<br>Every character.</h1></div><p>A community-built universe, ready to explore.<br>Find a familiar face or meet someone new. Open any character to read their story and see the art—no downloads needed.</p></section><div class="toolbar"><div class="search-wrap"><label for="search">Find a character by name or alias</label><input type="search" id="search" placeholder="Try Teknium, TurboFit, or Super Shiba…" autocomplete="off" aria-controls="characters"></div><button id="reset" type="button">Clear search</button></div><div class="results"><span id="count" role="status" aria-live="polite">'''+str(len(cast))+''' profiles</span><span>Alphabetical · One Nous cast</span></div><section id="characters" class="grid" aria-label="All Nous characters">'''+''.join(cards)+'''</section><section id="empty" class="empty-results" hidden><h2>No characters found</h2><p>Try a shorter name or an alias, or clear the search to see everyone.</p><button id="empty-reset" type="button">Show all characters</button></section><noscript><p>All characters are shown above. Enable JavaScript for instant search, or use your browser’s Find command.</p></noscript></main><footer class="archive-footer"><nav><a href="read/README.html">Stories, videos &amp; archive guide</a><a href="read/README.html#optional-3d-model-downloads">Optional model downloads</a><a href="read/CONTENT-NOTICE.html">Content notice</a><a href="https://123mikeyd.github.io/nrcu-platform-fighter/">Play the NRCU fighter</a></nav><p>Unofficial, fan-made, and made for the love of the craft. Original references and credits stay with each profile.</p></footer></div><script src="archive.js"></script>'''
 (LIB/'index.html').write_text(document('All Nous — Character Library',body,'library/index.html'),encoding='utf-8')
+# Individually gated supplementary art is generated from explicit per-sheet approval.
+# Generate Markdown too, so the source page cannot expose pending variants.
+for c in m['characters']:
+ if c.get('publication_hold') or c.get('alternate_art_approval')!='individual-Mike-review-required':continue
+ source=c['sheets_page']
+ text=f'# {c["name"]} — Supplementary art\n\n[Character profile and established reference]({relative(c["profile"],source)}) · [Visual library]({relative("library/index.html",source)})\n\nIndividually approved supplementary art. The established primary reference and character lore remain unchanged.\n'
+ for sheet in c.get('sheets',[]):
+  if sheet.get('approval_status')!='approved-supplementary':continue
+  label=sheet['label'];preview=relative(sheet['preview'],source)
+  original=relative(sheet.get('original',sheet['preview']),source)
+  text+=f'\n## {label}\n\n[![{c["name"]} — {label}]({preview})]({original})\n'
+  if sheet.get('credit_markdown'):text+='\n'+sheet['credit_markdown']+'\n'
+ text+='\n[Content notice]('+relative('CONTENT-NOTICE.md',source)+').\n'
+ (ROOT/source).write_text(text,encoding='utf-8')
 # All Markdown is rendered so profile cross-links stay readable locally and on Pages.
 # A publication hold omits that character and its art pages from generated browsing.
 held={c['profile'] for c in m['characters'] if c.get('publication_hold')}
@@ -81,8 +95,7 @@ for p in files:
  if source in held:continue
  output='library/read/'+source.replace('.md','.html');dest=ROOT/output
  text=p.read_text(encoding='utf-8')
- if source=='characters/sheets/teknium.md':
-  text='# Teknium — alternate art review\n\nAlternate sheets await individual approval and are not displayed in the browsing library.\n\n[Read the profile and established reference](../teknium.md).\n'
+
  rendered=markdown.markdown(text,extensions=['tables','fenced_code','toc'])
  # Optional download sections are collapsed, after the reading content.
  rendered=re.sub(r'(<h2 id="optional-3d-model-download">.*?)(?=<h2 |\Z)',lambda x:'<details><summary>Optional 3D model download</summary>'+re.sub(r'^<h2.*?</h2>','',x[1],flags=re.S)+'</details>',rendered,flags=re.S)

@@ -2465,7 +2465,9 @@
           "original_archive_path": "characters/teknium/styles/anime/teknium__sheet__anime__v01.png",
           "width": 1536,
           "height": 1024,
-          "approval_status": "pending-Mike-review"
+          "approval_status": "approved-supplementary",
+          "label": "Anime alternate",
+          "credit_markdown": "From [Sahil\u2019s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse)."
         },
         {
           "style": "chibi",
@@ -2556,6 +2558,17 @@
           "width": 1536,
           "height": 1024,
           "approval_status": "pending-Mike-review"
+        },
+        {
+          "style": "chess-themed-pose-expression",
+          "preview": "images/character-sheets/teknium/chess-themed-pose-expression.webp",
+          "sha256": "1e8075f1237fe2c48a8e6dd961a45750ba5b6a666a93a0d0e3065186b5c69481",
+          "original": "images/character-sheets/teknium/chess-themed-pose-expression.png",
+          "original_sha256": "00dde58e32a4f47a6dec16b419c8e31c6ae187781ec9f9d3f3d223646c2bf20d",
+          "width": 1448,
+          "height": 1086,
+          "approval_status": "approved-supplementary",
+          "label": "Chess-themed alternate \u2014 pose and expression sheet"
         }
       ],
       "publication_hold": false,
