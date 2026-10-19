@@ -32,7 +32,9 @@ rows=[]
 directory='# All Nous characters\n\n[← Archive home](../README.md) · [Search the visual library](../library/index.html)\n\nOne alphabetical cast. Every name opens a readable profile; downloads are optional. Doge Man, Super Shiba and 123mikeyD are one character.\n\n'
 for c in cast:
  image=f'<img src="./{esc(c["browse_preview"])}" alt="{esc(c["name"])} reference artwork" width="180"><br>' if c.get('browse_preview') else 'Artwork not yet available<br>'
- rows.append(f'<td align="center"><a href="./{esc(c["profile"])}">{image}<strong>{esc(c["name"])}</strong></a></td>')
+ # Front-page curation only; retain the archived profile and directory entry.
+ if c['profile'] != 'characters/heartbreaker.md':
+  rows.append(f'<td align="center"><a href="./{esc(c["profile"])}">{image}<strong>{esc(c["name"])}</strong></a></td>')
  directory+=f'- [{c["name"]}](./{Path(c["profile"]).name})'
  if c.get('aliases'):directory+=' — '+', '.join(dict.fromkeys(c['aliases']))
  directory+='\n'
