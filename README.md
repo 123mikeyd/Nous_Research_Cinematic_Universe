@@ -8,6 +8,18 @@ The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squa
 
 **Open Source for All.**
 
+## 🖼️ NRCU Picture of the Month
+
+**Artwork by [Quark2World](./characters/quark2world.md)**
+
+<p align="center">
+  <a href="./images/spotlights/quark2world-comic.png"><img src="./images/spotlights/quark2world-comic.png" alt="Comic page by Quark2World, featuring an industrial sunset and a shared meal" width="680"></a>
+</p>
+
+<p align="center"><em>Even between big adventures, there's time to share a meal.</em><br><a href="./images/spotlights/quark2world-comic.png">View full-size artwork</a></p>
+
+---
+
 ## Explore the archive
 
 **[Open the searchable visual library](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/)** · **[Alphabetical character directory](./characters/README.md)**
