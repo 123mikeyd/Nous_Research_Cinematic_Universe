@@ -19,20 +19,8 @@ Systems, Strategy, Growth
 
 ## Design Notes
 
-Teknium is the squad's green-haired leader. His spiky hair carries visible leafage, and he wears one connected sheet of triangular shades — never a mask, or eye glow. He wears a dark-green tactical-style jacket with "NR" patches on the shoulders.
+Teknium is the squad's green-haired leader. His spiky hair carries visible leafage, and he wears one connected sheet of red triangular shades. The lenses of the glasses are red with white reflective shimmer effects. He wears a green or blue most often.
 
-## Key Appearances
-
-- **Campfire Scene:** Central figure with a glowing tablet, roasting marshmallows
-- **Carnival Party:** Pointing forward with a confident grin, tablet in hand
-- **Beach Finale:** Smiling toward the team
-- **ASK HERMES:** Pointing toward the "ASK HERMES" panel, gesturing toward truth
-
-## Signature Items
-
-
-- **Glowing Tablet:** Displays green schematics, maps, and strategic data
-- **NR Patches:** Nous Research insignia on jacket shoulders
 
 ## Supplementary art
 
