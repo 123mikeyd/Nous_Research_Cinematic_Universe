@@ -36,7 +36,7 @@ Teknium is the squad's green-haired leader. His spiky hair carries visible leafa
 
 ## Supplementary art
 
-All archived Teknium style sheets are collected below as supplementary visual references. These alternate interpretations do not replace the established primary reference or character lore. Click any sheet to view it separately.
+Selected Teknium style sheets are collected below as supplementary visual references. These alternate interpretations do not replace the established primary reference or character lore. Click any sheet to view it separately.
 
 Style variations from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse); the chess-themed pose and expression sheet is presented separately.
 
@@ -52,10 +52,6 @@ Style variations from [Sahil’s Hermes Multiverse collection](https://github.co
 
 [![Teknium — Chibi](../images/character-sheets/teknium/chibi.webp)](../images/character-sheets/teknium/chibi.webp)
 
-### Claymation / stop-motion
-
-[![Teknium — Claymation / stop-motion](../images/character-sheets/teknium/claymation-stop-motion.webp)](../images/character-sheets/teknium/claymation-stop-motion.webp)
-
 ### Disney
 
 [![Teknium — Disney](../images/character-sheets/teknium/disney.webp)](../images/character-sheets/teknium/disney.webp)
@@ -63,10 +59,6 @@ Style variations from [Sahil’s Hermes Multiverse collection](https://github.co
 ### Gothic
 
 [![Teknium — Gothic](../images/character-sheets/teknium/gothic.webp)](../images/character-sheets/teknium/gothic.webp)
-
-### Hyper-realistic
-
-[![Teknium — Hyper-realistic](../images/character-sheets/teknium/hyper-realistic.webp)](../images/character-sheets/teknium/hyper-realistic.webp)
 
 ### Ink / pen sketch
 
