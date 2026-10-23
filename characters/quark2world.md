@@ -32,7 +32,7 @@ Mike identifies the figure in [“Thank You Nous Research” by Arts Bro](../mus
 
 ## Creator profile
 
-Quark is a Europe-based community creator who makes music and videos, runs a YouTube channel, and builds creative and game-development tools. He works with a powerful personal computer; specific hardware specifications are not documented here.
+**Quark2world / Quark / quark2world — NRCU co-artist.** Quark makes music and videos, runs the amglolification YouTube channel, and builds creative and game-development tools. This is a real creative credit, separate from fictional character lore. See [co-artists & creative credits](../CREDITS.md).
 
 ### NRCU game contributions
 
@@ -57,6 +57,14 @@ Quark is helpful in the community Discord. He also helped identify community app
 Official Hermes documentation credits **@quark2world** with custom skins for the [HermelinChat GUI](https://github.com/quarker1337/hermelinChat).
 
 The public YouTube channel [amglolification](https://www.youtube.com/@amglolification) hosts both a HermelinChat video and [“Tekpunk — One More Prompt | Hackathon Fuel”](../music-videos/tekpunk-one-more-prompt.md). This is Quark’s confirmed channel.
+
+## Featured artwork
+
+[![Comic page by Quark2World, featuring an industrial sunset and a shared meal](../images/spotlights/quark2world-comic.png)](../images/spotlights/quark2world-comic.png)
+
+**Artwork by Quark2World.** Featured in the archive’s Picture of the Month. The scene is presented as artwork, not an inferred new event in the character’s biography.
+
+[Browse supplementary style sheets](./sheets/quark2world.md). These interpretations do not replace the selected portrait and approved character sheet above.
 
 ## Open character lore
 

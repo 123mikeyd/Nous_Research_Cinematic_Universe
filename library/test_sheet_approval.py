@@ -16,7 +16,7 @@ class SheetApprovalTest(unittest.TestCase):
             root = Path(directory)
             for folder in ('library', 'characters', 'scenes', 'music-videos', 'squad'):
                 shutil.copytree(ROOT / folder, root / folder)
-            for name in ('README.md', 'CONTENT-NOTICE.md'):
+            for name in ('README.md', 'CONTENT-NOTICE.md', 'CREDITS.md'):
                 shutil.copy2(ROOT / name, root / name)
             path = root / 'library/characters.json'
             manifest = json.loads(path.read_text(encoding='utf-8'))
@@ -37,11 +37,14 @@ class SheetApprovalTest(unittest.TestCase):
             approved['approval_status'] = 'pending-Mike-review'
             path.write_text(json.dumps(manifest), encoding='utf-8')
             subprocess.run([sys.executable, str(root / 'library/build.py')], check=True, capture_output=True)
-            for relative in ('library/read/characters/sheets/teknium.html', 'characters/sheets/teknium.md'):
+            for relative in ('library/read/characters/sheets/teknium.html', 'characters/sheets/teknium.md', 'characters/teknium.md', 'library/read/characters/teknium.html'):
                 text = (root / relative).read_text(encoding='utf-8')
                 for sheet in teknium['sheets']:
                     self.assertNotIn(sheet['preview'], text)
-                self.assertIn('teknium.', text)
+                if '/sheets/' in relative:
+                    self.assertIn('teknium.', text)
+                else:
+                    self.assertIn('images/teknium-leafage-shades.png', text)
 
 
 if __name__ == '__main__':

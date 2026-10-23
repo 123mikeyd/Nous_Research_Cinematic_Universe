@@ -4,7 +4,11 @@
 
 > **"We Build. We Share. We Never Surrender."**
 
-The NRCU is a fan-created cinematic universe centered on the **Hermes Agent Squad** — a team of open-source rebels fighting for freedom, knowledge, and a better future. Each member brings unique strengths, style, and unshakable loyalty to the cause.
+The NRCU is a **collaborative character bible and art archive** for a fan-created Nous universe: selected character designs, community stories, music videos, and game adaptations. The Hermes Agent Squad is part of that world—not the boundary of the cast.
+
+**[Browse the character bible](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/library/)** · **[Co-artists & creative credits](./CREDITS.md)**
+
+**NRCU co-artists:** [Mike / 123mikeyd (Doge Man)](./characters/doge-man.md), [ArtsBro](./characters/artsbro.md), [Sahil](./characters/sahil.md), and [Quark2world](./characters/quark2world.md). Real creator credits are separate from fictional roles and allegiances. Approved references stay selected; alternate art and open lore are labeled.
 
 **Open Source for All.**
 

@@ -47,13 +47,13 @@ readme.write_text(text,encoding='utf-8')
 def relative(target, output):
  return posixpath.relpath(target, posixpath.dirname(output))
 
-def document(title,body,output,description='Read the NRCU community archive. Profiles, artwork and stories; no model download required.'):
+def document(title,body,output,description='The NRCU collaborative character bible: selected artwork, confirmed lore and co-artist credits. One Nous cast; no model download required.'):
  css=relative('library/archive.css',output)
  return '<!doctype html>\n<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="'+esc(description)+'"><title>'+esc(title)+' · NRCU</title><link rel="stylesheet" href="'+css+'"></head><body>'+body+'</body></html>\n'
 
 def header(output):
  home=relative('library/index.html',output)
- return '<a class="skip" href="#content">Skip to content</a><div class="shell"><header class="topbar"><a class="brand" href="'+home+'">NRCU / ARCHIVE</a><nav aria-label="Archive"><a href="'+home+'">All Nous</a><a href="https://github.com/123mikeyd/Nous_Research_Cinematic_Universe">GitHub</a></nav></header>'
+ return '<a class="skip" href="#content">Skip to content</a><div class="shell"><header class="topbar"><a class="brand" href="'+home+'">NRCU / ARCHIVE</a><nav aria-label="Archive"><a href="'+home+'">All Nous</a><a href="'+relative('library/read/CREDITS.html',output)+'">Co-artists &amp; credits</a><a href="https://github.com/123mikeyd/Nous_Research_Cinematic_Universe">GitHub</a></nav></header>'
 
 cards=[]
 for c in cast:
@@ -67,7 +67,7 @@ for c in cast:
  pic='<div class="art"><img loading="lazy" src="../'+esc(c['browse_preview'])+'" alt="'+esc(c['name'])+' reference artwork"></div>' if c.get('browse_preview') else '<div class="art empty">Artwork not yet available</div>'
  search=' '.join([c['id'],c['name']]+c.get('aliases',[]))
  cards.append('<article class="card" data-id="'+esc(c['id'])+'" data-search="'+esc(search)+'"><a href="'+relative(c['reader'],'library/index.html')+'">'+pic+'<h2>'+esc(c['name'])+'</h2><p>'+esc(note)+'</p><span class="read">Read profile <span aria-hidden="true">↗</span></span></a></article>')
-body=header('library/index.html')+'''<main id="content"><section class="intro" aria-labelledby="title"><div><span class="eyebrow">Nous Research Cinematic Universe</span><h1 id="title">All Nous.<br>Every character.</h1></div><p>A community-built universe, ready to explore.<br>Find a familiar face or meet someone new. Open any character to read their story and see the art—no downloads needed.</p></section><div class="toolbar"><div class="search-wrap"><label for="search">Find a character by name or alias</label><input type="search" id="search" placeholder="Try Teknium, TurboFit, or Super Shiba…" autocomplete="off" aria-controls="characters"></div><button id="reset" type="button">Clear search</button></div><div class="results"><span id="count" role="status" aria-live="polite">'''+str(len(cast))+''' profiles</span><span>Alphabetical · One Nous cast</span></div><section id="characters" class="grid" aria-label="All Nous characters">'''+''.join(cards)+'''</section><section id="empty" class="empty-results" hidden><h2>No characters found</h2><p>Try a shorter name or an alias, or clear the search to see everyone.</p><button id="empty-reset" type="button">Show all characters</button></section><noscript><p>All characters are shown above. Enable JavaScript for instant search, or use your browser’s Find command.</p></noscript></main><footer class="archive-footer"><nav><a href="read/README.html">Stories, videos &amp; archive guide</a><a href="read/README.html#optional-3d-model-downloads">Optional model downloads</a><a href="read/CONTENT-NOTICE.html">Content notice</a><a href="https://123mikeyd.github.io/nrcu-platform-fighter/">Play the NRCU fighter</a></nav><p>Unofficial, fan-made, and made for the love of the craft. Original references and credits stay with each profile.</p></footer></div><script src="archive.js"></script>'''
+body=header('library/index.html')+'''<main id="content"><section class="intro" aria-labelledby="title"><div><span class="eyebrow">Collaborative character bible</span><h1 id="title">All Nous.<br>Every character.</h1></div><p>The Nous Research Cinematic Universe, made together.<br>Explore selected designs, confirmed stories, and community art—no downloads needed. <a href="read/CREDITS.html">Meet the co-artists and read the creative credits</a>. Real creator work and fictional roles are kept distinct; open lore stays open.</p></section><div class="toolbar"><div class="search-wrap"><label for="search">Find a character by name or alias</label><input type="search" id="search" placeholder="Try Teknium, TurboFit, or Super Shiba…" autocomplete="off" aria-controls="characters"></div><button id="reset" type="button">Clear search</button></div><div class="results"><span id="count" role="status" aria-live="polite">'''+str(len(cast))+''' profiles</span><span>Alphabetical · One Nous cast</span></div><section id="characters" class="grid" aria-label="All Nous characters">'''+''.join(cards)+'''</section><section id="empty" class="empty-results" hidden><h2>No characters found</h2><p>Try a shorter name or an alias, or clear the search to see everyone.</p><button id="empty-reset" type="button">Show all characters</button></section><noscript><p>All characters are shown above. Enable JavaScript for instant search, or use your browser’s Find command.</p></noscript></main><footer class="archive-footer"><nav><a href="read/README.html">Stories, videos &amp; archive guide</a><a href="read/README.html#optional-3d-model-downloads">Optional model downloads</a><a href="read/CONTENT-NOTICE.html">Content notice</a><a href="https://123mikeyd.github.io/nrcu-platform-fighter/">Play the NRCU fighter</a></nav><p>Unofficial, fan-made, and made for the love of the craft. Original references and credits stay with each profile.</p></footer></div><script src="archive.js"></script>'''
 (LIB/'index.html').write_text(document('All Nous — Character Library',body,'library/index.html'),encoding='utf-8')
 # Individually gated supplementary art is generated from explicit per-sheet approval.
 # Generate Markdown too, so the source page cannot expose pending variants.
@@ -83,6 +83,18 @@ for c in m['characters']:
   if sheet.get('credit_markdown'):text+='\n'+sheet['credit_markdown']+'\n'
  text+='\n[Content notice]('+relative('CONTENT-NOTICE.md',source)+').\n'
  (ROOT/source).write_text(text,encoding='utf-8')
+ # Keep the profile's delimited art block under the same approval gate.
+ profile_path=ROOT/c['profile']
+ profile_text=profile_path.read_text(encoding='utf-8')
+ artwork=''
+ for sheet in c.get('sheets',[]):
+  if sheet.get('approval_status')!='approved-supplementary':continue
+  label=sheet['label']
+  preview=relative(sheet['preview'],c['profile'])
+  original=relative(sheet.get('original',sheet['preview']),c['profile'])
+  artwork+=f'\n### {label}\n\n[![{c["name"]} — {label}]({preview})]({original})\n'
+ profile_text=re.sub(r'(?<=<!-- BEGIN GENERATED APPROVED ART -->).*?(?=<!-- END GENERATED APPROVED ART -->)', '\n'+artwork+'\n',profile_text,flags=re.S)
+ profile_path.write_text(profile_text,encoding='utf-8')
 # All Markdown is rendered so profile cross-links stay readable locally and on Pages.
 # A publication hold omits that character and its art pages from generated browsing.
 held={c['profile'] for c in m['characters'] if c.get('publication_hold')}
@@ -91,7 +103,7 @@ held|={c.get('sheets_page','') for c in m['characters'] if c.get('publication_ho
 for source in held - {''}:
  stale=ROOT/('library/read/'+source.replace('.md','.html'))
  if stale.exists():stale.unlink()
-files=[p for folder in ['characters','scenes','music-videos','squad'] for p in (ROOT/folder).rglob('*.md')]+[ROOT/'README.md',ROOT/'CONTENT-NOTICE.md']
+files=[p for folder in ['characters','scenes','music-videos','squad'] for p in (ROOT/folder).rglob('*.md')]+[ROOT/'README.md',ROOT/'CONTENT-NOTICE.md',ROOT/'CREDITS.md']
 for p in files:
  source=p.relative_to(ROOT).as_posix()
  if source in held:continue

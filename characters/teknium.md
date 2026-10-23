@@ -28,6 +28,8 @@ Selected Teknium style sheets are collected below as supplementary visual refere
 
 Style variations from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse); the chess-themed pose and expression sheet is presented separately.
 
+<!-- BEGIN GENERATED APPROVED ART -->
+
 ### Anime
 
 [![Teknium — Anime](../images/character-sheets/teknium/anime.webp)](../images/character-sheets/teknium/anime.webp)
@@ -63,6 +65,8 @@ Style variations from [Sahil’s Hermes Multiverse collection](https://github.co
 ### Rick and Morty
 
 [![Teknium — Rick and Morty](../images/character-sheets/teknium/rick-and-morty.webp)](../images/character-sheets/teknium/rick-and-morty.webp)
+
+<!-- END GENERATED APPROVED ART -->
 
 [Content notice](../CONTENT-NOTICE.md).
 

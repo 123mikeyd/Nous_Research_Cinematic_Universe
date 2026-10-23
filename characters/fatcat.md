@@ -8,7 +8,7 @@
 
 ## Character reference
 
-**Status:** Side-character concept; story role open.
+**Status:** Character concept; story role open.
 
 **Original FatCat artwork:** Horizon. The collected style variations below are from Sahil’s catalogue; this credit does not attribute every variation to Horizon.
 

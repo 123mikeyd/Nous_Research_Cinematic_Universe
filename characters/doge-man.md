@@ -10,6 +10,10 @@
 
 > **Brawler — he is the projectile.**
 
+## Creator credit
+
+**Mike / 123mikeyd — NRCU co-artist.** Doge Man, Super Shiba, and 123mikeyD share this character profile. Mike’s real creative credit is separate from Doge Man’s fictional fighting role. See [co-artists & creative credits](../CREDITS.md).
+
 ## Character Overview
 
 Doge Man's established game role is a close-range brawler. His signature attack sends him flying sideways into the fight like a torpedo: instead of firing a projectile, he becomes one.

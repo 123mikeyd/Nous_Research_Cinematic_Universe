@@ -52,6 +52,10 @@ Performance, Hardware, Open-Source Advocacy
 
 Around **02:40**, Sovthpaw / Turbo Fit appears in a small home workspace with a teepee-like hut and a chalkboard, working to keep track of everything. Describes the man as an unfazed, persistent effort to keep going despite the scale of the work.
 
+## Friendship with drahcir_rahl
+
+The documented story with [drahcir_rahl — The IT Juggernaut](./drahcir-rahl.md) begins with a forceful reminder to keep the chat organized and develops into a friendship. His profile preserves the original-clip and combined-edit credits.
+
 ## Design Notes
 
 Turbo Fit is the squad's rock-and-roll hardware hacker and local model guru. Long messy dark redish/brown wavy hair, dark sunglasses, punk/grunge styling — sleeveless worn graphic shirt, tactical joggers, leather/metal accessories, boots, with a bass guitar slung over his back. The "NR" (Nous Research) logo appears on the back of his shirt. His "weapon" is a high-end NVIDIA Blackwell 6000 graphics card or an electric guitar — a fitting symbol for a tech builder who fights with open-source conviction.

@@ -112,6 +112,9 @@
       "reader": "library/read/characters/artsbro.html",
       "additional_references": [
         "images/artsbro-mask-details.png"
+      ],
+      "aliases": [
+        "Arts Bro"
       ]
     },
     {
@@ -715,7 +718,7 @@
       ],
       "publication_hold": false,
       "original_art_credit": "Horizon",
-      "character_status": "side-character-concept-role-open",
+      "character_status": "character-concept-role-open",
       "primary_reference": "images/character-sheets/fatcat/anime.webp",
       "browse_preview": "images/previews/library-fatcat.webp",
       "reader": "library/read/characters/fatcat.html"
@@ -1700,7 +1703,9 @@
       "reader": "library/read/characters/quark2world.html",
       "aliases": [
         "Quark",
-        "quark2world"
+        "quark2world",
+        "Quark2World",
+        "amglolification"
       ]
     },
     {
@@ -1999,7 +2004,9 @@
       "name": "Scary Jerry",
       "group": "nous",
       "profile": "characters/scary-jerry.md",
-      "aliases": ["ScaryJerry"],
+      "aliases": [
+        "ScaryJerry"
+      ],
       "publication_hold": false,
       "primary_reference": "images/scary-jerry-turnaround.png",
       "browse_preview": "images/previews/library-scary-jerry.webp",
@@ -2097,7 +2104,10 @@
       "publication_hold": false,
       "primary_reference": "images/character-sheets/shawncleta/anime.webp",
       "browse_preview": "images/previews/library-shawncleta.webp",
-      "reader": "library/read/characters/shawncleta.html"
+      "reader": "library/read/characters/shawncleta.html",
+      "aliases": [
+        "Shawn Cleta"
+      ]
     },
     {
       "id": "sidbin",
@@ -2466,98 +2476,8 @@
           "width": 1536,
           "height": 1024,
           "approval_status": "approved-supplementary",
-          "label": "Anime alternate",
+          "label": "Anime",
           "credit_markdown": "From [Sahil\u2019s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse)."
-        },
-        {
-          "style": "chibi",
-          "preview": "images/character-sheets/teknium/chibi.webp",
-          "sha256": "ab4d3d83ae487137582a39e81171ace199f58e9e9f175247e8cbc9cd4de87b86",
-          "original_sha256": "4d5b162a6fcc87589898ae377b453ef761e62ab5f31d4c5cbe8d0c463131040c",
-          "original_archive_path": "characters/teknium/styles/chibi/teknium__sheet__chibi__v01.jpeg",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "claymation-stop-motion",
-          "preview": "images/character-sheets/teknium/claymation-stop-motion.webp",
-          "sha256": "3943c7a6b4545220bface98610ae91e26b6669ff3b1aa84d722c73b1a23dfbee",
-          "original_sha256": "2e1d0040b541b867c8b5231bc0df5a1e7afa9a5c2f712c9796e93521622c2666",
-          "original_archive_path": "characters/teknium/styles/claymation-stop-motion/teknium__sheet__claymation-stop-motion__v01.png",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "disney",
-          "preview": "images/character-sheets/teknium/disney.webp",
-          "sha256": "09dd190c6f34059d388a0a275270232d07d89efa50d18c244c2ec19edaed424e",
-          "original_sha256": "2a972e9ef0d8dfb25569782b619791331b1e30466d4e732887563d5f40abb3cc",
-          "original_archive_path": "characters/teknium/styles/disney/teknium__sheet__disney__v01.jpeg",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "gothic",
-          "preview": "images/character-sheets/teknium/gothic.webp",
-          "sha256": "48a60f31baa3f4ae8b0f05a8551d99ac0ed15bfa0a8e6196533046ce727ae6e8",
-          "original_sha256": "8cd7ee3f47f0d362832c4bfaf1f657b04dd44496fd6b26c636f54468df25e761",
-          "original_archive_path": "characters/teknium/styles/gothic/teknium__sheet__gothic__v01.png",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "hyper-realistic",
-          "preview": "images/character-sheets/teknium/hyper-realistic.webp",
-          "sha256": "0ebb23e97022805316cf70c2ce7cca3338591dfff17c3a530acc7623bc612118",
-          "original_sha256": "9bb52af3a8d81b5cc1af540f3018c551f5326e773acb353edb26897f1125eadb",
-          "original_archive_path": "characters/teknium/styles/hyper-realistic/teknium__sheet__hyper-realistic__v01.png",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "ink-pen-sketch",
-          "preview": "images/character-sheets/teknium/ink-pen-sketch.webp",
-          "sha256": "a5a7c0b6ab7054fb299d130505d1fc40d90994938f85897de057622118e85272",
-          "original_sha256": "86e64843b204283eb36b87a255a8a5ad421213ddbcf899857f6cd2c74c8338bf",
-          "original_archive_path": "characters/teknium/styles/ink-pen-sketch/teknium__sheet__ink-pen-sketch__v01.png",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "mecha",
-          "preview": "images/character-sheets/teknium/mecha.webp",
-          "sha256": "3c161004677c2d0285b2393ca64cfa0b9a39205202725a0b252919ffcebea122",
-          "original_sha256": "567bfe57e43f91ab55ed660cb59b3399d6801957449451e5205dc5c4b93facd1",
-          "original_archive_path": "characters/teknium/styles/mecha/teknium__sheet__mecha__v01.jpeg",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "punk",
-          "preview": "images/character-sheets/teknium/punk.webp",
-          "sha256": "831afd953f556d3aad1552aa1e500f23547eeeb5ca40a0ea5b1ed46dbd60a894",
-          "original_sha256": "7f13132c3d821ad3bbbd657a94b68b6b1776f2a690ae80fa667d3ea136469445",
-          "original_archive_path": "characters/teknium/styles/punk/teknium__sheet__punk__v01.jpeg",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
-        },
-        {
-          "style": "rick-and-morty",
-          "preview": "images/character-sheets/teknium/rick-and-morty.webp",
-          "sha256": "b4e060471806d27448d539df18c0ec01cb9773a9f6617683b8a2010269e959c7",
-          "original_sha256": "85a586ba49544c936896f9506fa8dc5c89c8dcfddda627b7780ca96f972899c2",
-          "original_archive_path": "characters/teknium/styles/rick-and-morty/teknium__sheet__rick-and-morty__v01.jpeg",
-          "width": 1536,
-          "height": 1024,
-          "approval_status": "pending-Mike-review"
         },
         {
           "style": "chess-themed-pose-expression",
@@ -2569,6 +2489,103 @@
           "height": 1086,
           "approval_status": "approved-supplementary",
           "label": "Chess-themed alternate \u2014 pose and expression sheet"
+        },
+        {
+          "style": "chibi",
+          "preview": "images/character-sheets/teknium/chibi.webp",
+          "sha256": "ab4d3d83ae487137582a39e81171ace199f58e9e9f175247e8cbc9cd4de87b86",
+          "original_sha256": "4d5b162a6fcc87589898ae377b453ef761e62ab5f31d4c5cbe8d0c463131040c",
+          "original_archive_path": "characters/teknium/styles/chibi/teknium__sheet__chibi__v01.jpeg",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Chibi"
+        },
+        {
+          "style": "disney",
+          "preview": "images/character-sheets/teknium/disney.webp",
+          "sha256": "09dd190c6f34059d388a0a275270232d07d89efa50d18c244c2ec19edaed424e",
+          "original_sha256": "2a972e9ef0d8dfb25569782b619791331b1e30466d4e732887563d5f40abb3cc",
+          "original_archive_path": "characters/teknium/styles/disney/teknium__sheet__disney__v01.jpeg",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Disney"
+        },
+        {
+          "style": "gothic",
+          "preview": "images/character-sheets/teknium/gothic.webp",
+          "sha256": "48a60f31baa3f4ae8b0f05a8551d99ac0ed15bfa0a8e6196533046ce727ae6e8",
+          "original_sha256": "8cd7ee3f47f0d362832c4bfaf1f657b04dd44496fd6b26c636f54468df25e761",
+          "original_archive_path": "characters/teknium/styles/gothic/teknium__sheet__gothic__v01.png",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Gothic"
+        },
+        {
+          "style": "ink-pen-sketch",
+          "preview": "images/character-sheets/teknium/ink-pen-sketch.webp",
+          "sha256": "a5a7c0b6ab7054fb299d130505d1fc40d90994938f85897de057622118e85272",
+          "original_sha256": "86e64843b204283eb36b87a255a8a5ad421213ddbcf899857f6cd2c74c8338bf",
+          "original_archive_path": "characters/teknium/styles/ink-pen-sketch/teknium__sheet__ink-pen-sketch__v01.png",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Ink / pen sketch"
+        },
+        {
+          "style": "mecha",
+          "preview": "images/character-sheets/teknium/mecha.webp",
+          "sha256": "3c161004677c2d0285b2393ca64cfa0b9a39205202725a0b252919ffcebea122",
+          "original_sha256": "567bfe57e43f91ab55ed660cb59b3399d6801957449451e5205dc5c4b93facd1",
+          "original_archive_path": "characters/teknium/styles/mecha/teknium__sheet__mecha__v01.jpeg",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Mecha"
+        },
+        {
+          "style": "punk",
+          "preview": "images/character-sheets/teknium/punk.webp",
+          "sha256": "831afd953f556d3aad1552aa1e500f23547eeeb5ca40a0ea5b1ed46dbd60a894",
+          "original_sha256": "7f13132c3d821ad3bbbd657a94b68b6b1776f2a690ae80fa667d3ea136469445",
+          "original_archive_path": "characters/teknium/styles/punk/teknium__sheet__punk__v01.jpeg",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Punk"
+        },
+        {
+          "style": "rick-and-morty",
+          "preview": "images/character-sheets/teknium/rick-and-morty.webp",
+          "sha256": "b4e060471806d27448d539df18c0ec01cb9773a9f6617683b8a2010269e959c7",
+          "original_sha256": "85a586ba49544c936896f9506fa8dc5c89c8dcfddda627b7780ca96f972899c2",
+          "original_archive_path": "characters/teknium/styles/rick-and-morty/teknium__sheet__rick-and-morty__v01.jpeg",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "approved-supplementary",
+          "label": "Rick and Morty"
+        },
+        {
+          "style": "claymation-stop-motion",
+          "preview": "images/character-sheets/teknium/claymation-stop-motion.webp",
+          "sha256": "3943c7a6b4545220bface98610ae91e26b6669ff3b1aa84d722c73b1a23dfbee",
+          "original_sha256": "2e1d0040b541b867c8b5231bc0df5a1e7afa9a5c2f712c9796e93521622c2666",
+          "original_archive_path": "characters/teknium/styles/claymation-stop-motion/teknium__sheet__claymation-stop-motion__v01.png",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "excluded-from-display"
+        },
+        {
+          "style": "hyper-realistic",
+          "preview": "images/character-sheets/teknium/hyper-realistic.webp",
+          "sha256": "0ebb23e97022805316cf70c2ce7cca3338591dfff17c3a530acc7623bc612118",
+          "original_sha256": "9bb52af3a8d81b5cc1af540f3018c551f5326e773acb353edb26897f1125eadb",
+          "original_archive_path": "characters/teknium/styles/hyper-realistic/teknium__sheet__hyper-realistic__v01.png",
+          "width": 1536,
+          "height": 1024,
+          "approval_status": "excluded-from-display"
         }
       ],
       "publication_hold": false,

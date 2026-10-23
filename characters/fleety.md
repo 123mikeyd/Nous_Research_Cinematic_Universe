@@ -11,3 +11,7 @@
 Fleety13 is included in the NRCU character library with reference sheets from [Sahil’s Hermes Multiverse collection](https://github.com/Sahil-SS9/hermes-multiverse/tree/15af249624130b7823a151d2390d93ae05ba93de/characters/fleety).
 
 Story roles, affiliations, powers, and relationships remain open unless separately established. Archive inclusion does not assert employment or fictional allegiance.
+
+## Confirmed video appearance
+
+Fleety is identified as the person in the suit with empty pockets in [Thank You Nous Research](../music-videos/thank-you-nous-research-arts-bro.md). A timestamp has not been recorded; this appearance does not establish a backstory.
