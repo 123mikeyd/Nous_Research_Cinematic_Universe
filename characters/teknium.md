@@ -17,6 +17,12 @@ Systems, Strategy, Growth
 
 > The leader and architect of the Hermes Agent Squad.
 
+## Leadership
+
+Teknium is the NRCU’s brilliant, outspoken leader. Fearless in debate and sharp with words, he stands up for his convictions and helps set the direction for Nous.
+
+His character brings together technical vision, determination, and the willingness to take on difficult challenges.
+
 ## Design Notes
 
 Teknium is the squad's green-haired leader. His spiky hair carries visible leafage, and he wears one connected sheet of red triangular shades. The lenses of the glasses are red with white reflective shimmer effects. He wears a green or blue most often.
