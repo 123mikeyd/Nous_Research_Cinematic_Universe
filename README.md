@@ -73,17 +73,17 @@ All Nous. One cast, in alphabetical order. Open any picture or name to read the 
 <tr>
 <td align="center"><a href="./characters/shawncleta.md"><img src="./images/previews/library-shawncleta.webp" alt="shawncleta reference artwork" width="180"><br><strong>shawncleta</strong></a></td>
 <td align="center"><a href="./characters/sidbin.md"><img src="./images/previews/library-sidbin.webp" alt="Sidbin — Mirror Shade reference artwork" width="180"><br><strong>Sidbin — Mirror Shade</strong></a></td>
+<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/previews/library-turbo-fit.webp" alt="Sovthpaw reference artwork" width="180"><br><strong>Sovthpaw</strong></a></td>
 <td align="center"><a href="./characters/sudo-nightwing.md"><img src="./images/previews/library-sudo-nightwing.webp" alt="sudo-nightwing reference artwork" width="180"><br><strong>sudo-nightwing</strong></a></td>
-<td align="center"><a href="./characters/suzu.md"><img src="./images/previews/library-suzu.webp" alt="Suzu reference artwork" width="180"><br><strong>Suzu</strong></a></td>
 </tr>
 <tr>
+<td align="center"><a href="./characters/suzu.md"><img src="./images/previews/library-suzu.webp" alt="Suzu reference artwork" width="180"><br><strong>Suzu</strong></a></td>
 <td align="center"><a href="./characters/tdamre.md"><img src="./images/previews/library-tdamre.webp" alt="tdamre reference artwork" width="180"><br><strong>tdamre</strong></a></td>
 <td align="center"><a href="./characters/teknium.md"><img src="./images/previews/library-teknium.webp" alt="Teknium reference artwork" width="180"><br><strong>Teknium</strong></a></td>
 <td align="center"><a href="./characters/tinuviel.md"><img src="./images/previews/library-tinuviel.webp" alt="Tinuviel — The Starry Wanderer reference artwork" width="180"><br><strong>Tinuviel — The Starry Wanderer</strong></a></td>
-<td align="center"><a href="./characters/tunacookie.md"><img src="./images/previews/library-tunacookie.webp" alt="TunaCookie reference artwork" width="180"><br><strong>TunaCookie</strong></a></td>
 </tr>
 <tr>
-<td align="center"><a href="./characters/turbo-fit.md"><img src="./images/previews/library-turbo-fit.webp" alt="Turbo Fit / Sovthpaw reference artwork" width="180"><br><strong>Turbo Fit / Sovthpaw</strong></a></td>
+<td align="center"><a href="./characters/tunacookie.md"><img src="./images/previews/library-tunacookie.webp" alt="TunaCookie reference artwork" width="180"><br><strong>TunaCookie</strong></a></td>
 <td align="center"><a href="./characters/witcheer.md"><img src="./images/previews/library-witcheer.webp" alt="Witcheer reference artwork" width="180"><br><strong>Witcheer</strong></a></td>
 </tr>
 </table>
@@ -147,7 +147,7 @@ Rigged character models with skeletons, skin weights, embedded textures, and ani
 |-----------|----------|----------------|
 | Teknium | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Teknium-rigged.zip) | [Teknium](./characters/teknium.md) |
 | Doge Man | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/DogeMan-rigged.zip) | [Doge Man](./characters/doge-man.md) |
-| TurboFit | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip) | [Turbo Fit](./characters/turbo-fit.md) |
+| Sovthpaw (TurboFit model) | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip) | [Sovthpaw](./characters/turbo-fit.md) |
 | Witcheer | [Rigged model ZIP](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/Witcheer-rigged.zip) | [Witcheer](./characters/witcheer.md) |
 
 [View the 3D character lineup](./images/3d-character-lineup.png)

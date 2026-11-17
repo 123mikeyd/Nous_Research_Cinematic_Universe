@@ -1,6 +1,10 @@
-# 🎸 Turbo Fit (ターボフィット)
+# 🎸 Sovthpaw
 
-![Turbo Fit Character Sheet](../images/turbo-fit-sheet.png)
+Sovthpaw is a father, guitarist, and mosh-pit regular with long auburn hair—amber-brown in tone—and very particular opinions about his guitars. A community moderator and local-model guru, he brings his love of music and technical knowledge to Nous.
+
+**TurboFit** is one of his monikers, a small part of his broader NRCU identity.
+
+![Sovthpaw character sheet — TurboFit moniker](../images/turbo-fit-sheet.png)
 
 ## Core Stats
 
@@ -9,14 +13,15 @@
 | **Height** | 6'1" (185 cm) |
 | **Build** | Lean / Athletic |
 | **Role** | Open-Source Rebel — Fighter / Builder |
-| **Community name** | Sovthpaw (identified by Mike in the “Thank You Nous Research” video) |
+| **Name** | Sovthpaw |
+| **Also known as** | TurboFit / Turbo Fit |
 | **Weapon** | NVIDIA Blackwell 6000 |
 | **Allegiance** | Nous Research |
-| **Signature Item** | Bass Guitar |
+| **Signature Item** | Guitar |
 
 ## Community identity
 
-**Turbofit / Turbo Fit** is the NRCU character for **Sovthpaw**, a community moderator and left-handed guitar player. His handle is spelled **Sovthpaw**, with a **v**.
+**Sovthpaw** is his primary name in the NRCU. He is a community moderator and left-handed guitar player. His handle is spelled **Sovthpaw**, with a **v**; **TurboFit**, **Turbofit**, and **Turbo Fit** are aliases.
 
 ## Focus
 
@@ -35,7 +40,7 @@ Performance, Hardware, Open-Source Advocacy
 | Pants | Tactical Joggers |
 | Boots | Worn Leather |
 | Chain | Brushed Steel |
-| Hair | Dark Brown |
+| Hair | Long auburn, amber-brown in tone |
 | Accessories | Leather / Metal |
 | Accent | Turbo Green |
 | Background | Concrete Grunge |
@@ -58,10 +63,10 @@ The documented story with [drahcir_rahl — The IT Juggernaut](./drahcir-rahl.md
 
 ## Design Notes
 
-Turbo Fit is the squad's rock-and-roll hardware hacker and local model guru. Long messy dark redish/brown wavy hair, dark sunglasses, punk/grunge styling — sleeveless worn graphic shirt, tactical joggers, leather/metal accessories, boots, with a bass guitar slung over his back. The "NR" (Nous Research) logo appears on the back of his shirt. His "weapon" is a high-end NVIDIA Blackwell 6000 graphics card or an electric guitar — a fitting symbol for a tech builder who fights with open-source conviction.
+Sovthpaw has long, wavy auburn hair with amber-brown tones. His archived TurboFit reference depicts dark sunglasses and punk/grunge styling — a sleeveless worn graphic shirt, tactical joggers, leather/metal accessories, boots, and a bass guitar slung over his back. The "NR" (Nous Research) logo appears on the back of his shirt. The hardware and electric-guitar motifs belong to this part of his character; his identity also includes fatherhood, music, mosh pits, and his particular taste in guitars.
 
 ## Optional 3D model download
 
-**[Download TurboFit — rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip)**
+**[Download Sovthpaw — TurboFit rigged 3D model (ZIP)](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/download/rigged-models-v1/TurboFit-rigged.zip)**
 
 Includes a GLB with skeleton, skin weights, embedded textures, and animation clips. Unzip and import the GLB into Blender or another glTF-compatible application. [Browse all four model downloads](https://github.com/123mikeyd/Nous_Research_Cinematic_Universe/releases/tag/rigged-models-v1).

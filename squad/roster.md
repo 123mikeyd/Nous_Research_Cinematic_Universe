@@ -32,7 +32,8 @@
 
 ## Members
 
-### 🎸 Turbo Fit
+### 🎸 Sovthpaw
+- **Identity:** Father, guitarist, and mosh-pit regular; TurboFit is one of his monikers.
 - **Title:** Open-Source Rebel
 - **Role:** Fighter / Builder
 - **Weapon:** Bass Guitar (Non-Lethal) / NVIDIA Blackwell 6000
@@ -91,7 +92,7 @@
 - **Heart Icon** — Heartbreaker's symbol
 - **Eye Icon** — Sidbin's symbol
 - **Sun/Star Icon** — Tinuviel's symbol
-- **Guitar Pick Icon** — Turbo Fit's symbol
+- **Guitar Pick Icon** — Sovthpaw's symbol
 
 ## Squad Relics (Team Tools)
 

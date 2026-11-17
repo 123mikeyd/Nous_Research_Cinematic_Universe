@@ -31,11 +31,11 @@ One alphabetical cast. Every name opens a readable profile; downloads are option
 - [Scary Jerry](./scary-jerry.md) — ScaryJerry, scary-jerry, Scary Jerry
 - [shawncleta](./shawncleta.md) — Shawn Cleta, shawncleta
 - [Sidbin — Mirror Shade](./sidbin.md) — sidbin, Sidbin — Mirror Shade
+- [Sovthpaw](./turbo-fit.md) — TurboFit, Turbofit, Sovthpaw, Turbo Fit, Sovthpaw / Turbo Fit, turbo-fit
 - [sudo-nightwing](./sudo-nightwing.md) — sudo-nightwing
 - [Suzu](./suzu.md) — suzu, Suzu
 - [tdamre](./tdamre.md) — tdamre
 - [Teknium](./teknium.md) — teknium, Teknium
 - [Tinuviel — The Starry Wanderer](./tinuviel.md) — tinuviel, Tinuviel — The Starry Wanderer
 - [TunaCookie](./tunacookie.md) — tunacookie, TunaCookie
-- [Turbo Fit / Sovthpaw](./turbo-fit.md) — TurboFit, Turbofit, Sovthpaw, Turbo Fit, Sovthpaw / Turbo Fit, turbo-fit, Turbo Fit / Sovthpaw
 - [Witcheer](./witcheer.md) — witcheer, Witcheer
