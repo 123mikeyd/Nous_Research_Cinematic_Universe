@@ -15,6 +15,8 @@ The co-artist credit does not make every artwork a joint work, transfer ownershi
 
 ## Artwork-specific credits
 
+- **Djm:** artist behind recurring weekly community artwork for Nous Research and Hermes. [Djm — The Weekly Art](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/artists/djm/) presents twelve selected works from his larger, ongoing body of work, all credited to him.
+
 - **Horizon:** original [FatCat artwork](./characters/fatcat.md). Sahil’s collected style variations are credited separately; FatCat’s story role remains open.
 - **Quark2World:** the [featured comic](./images/spotlights/quark2world-comic.png).
 - **Sahil’s Hermes Multiverse collection:** linked on the supplementary sheet pages. Inclusion preserves creative variations without automatically making them primary designs or adopting printed lore.

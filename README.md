@@ -89,6 +89,14 @@ All Nous. One cast, in alphabetical order. Open any picture or name to read the 
 </table>
 <!-- END GENERATED CHARACTER GALLERY -->
 
+## Djm — The Weekly Art
+
+[![Blue pixel-art house beneath a starry sky — artwork by Djm](./artists/djm/art/previews/djm-07.webp)](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/artists/djm/)
+
+**The artist behind the weekly art.** Explore twelve selected works from Djm’s larger, ongoing body of Nous Research and Hermes artwork, presented uncropped with full-size viewing.
+
+**[Visit Djm’s exhibition →](https://123mikeyd.github.io/Nous_Research_Cinematic_Universe/artists/djm/)**
+
 ## Inside the NRCU
 
 Scenes, comics, and moments from a world we make together.
